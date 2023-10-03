@@ -872,15 +872,14 @@ void DBManager::AnalyzeReturnQuery(SQLMsg * pMsg)
 
 							char szQuery[1024];
 							snprintf(szQuery, sizeof(szQuery), "UPDATE account SET last_play=NOW() WHERE id=%u", dwID);
-							std::unique_ptr<SQLMsg> msg( DBManager::instance().DirectQuery(szQuery) );
+							std::unique_ptr<SQLMsg> msg( DBManager::instance().DirectQuery(szQuery) );	
 						//hardware ban revised
 						char szHwid[255 * 2 + 1];
 						DBManager::instance().EscapeString(szHwid, sizeof(szHwid), pinfo->cHWInfo, strlen(pinfo->cHWInfo));
 						char szQuery2[1024];
 						snprintf (szQuery2, sizeof (szQuery2), "UPDATE account SET hwid='%s' WHERE id=%u", szHwid, dwID); //Updates hwid of the account
 						std::unique_ptr<SQLMsg> msg2( DBManager::instance().DirectQuery(szQuery2) );
-						//hardware ban revised
-							
+						//hardware ban revised							
 						}
 
 						TAccountTable & r = d->GetAccountTable();
@@ -1113,7 +1112,7 @@ void DBManager::AnalyzeReturnQuery(SQLMsg * pMsg)
 							char szQuery[1024];
 							snprintf(szQuery, sizeof(szQuery), "UPDATE account SET last_play=NOW() WHERE id=%u", dwID);
 							std::unique_ptr<SQLMsg> msg( DBManager::instance().DirectQuery(szQuery) );
-							//hardware ban revised
+									//hardware ban revised
 						char szHwid[255 * 2 + 1];
 						DBManager::instance().EscapeString(szHwid, sizeof(szHwid), pinfo->cHWInfo, strlen(pinfo->cHWInfo));
 						char szQuery2[1024];

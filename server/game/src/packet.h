@@ -552,6 +552,7 @@ typedef struct command_login3
 	char	login[LOGIN_MAX_LEN + 1];
 	char	passwd[PASSWD_MAX_LEN + 1];
 	DWORD	adwClientKey[4];
+	char	cHWInfo[255 + 1]; // hardware ban revised
 } TPacketCGLogin3;
 
 typedef struct command_login5

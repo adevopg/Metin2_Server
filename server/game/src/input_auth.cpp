@@ -10,6 +10,10 @@
 #include "locale_service.h"
 #include "auth_brazil.h"
 #include "db.h"
+#include "../../common/service.h" 
+#ifdef ENABLE_LOGIN_SECURITY
+	#include "login_security.h"
+#endif
 
 #ifndef __WIN32__
 	#include "limit_time.h"
@@ -165,6 +169,13 @@ void CInputAuth::Login(LPDESC d, const char * c_pData)
 		LoginFailure(d, "ALREADY");
 		return;
 	}
+	#ifdef ENABLE_LOGIN_SECURITY
+	if(CLoginSecurity::instance().IsMatchIP(login, inet_ntoa(d->GetAddr().sin_addr)) == false)
+	{
+		LoginFailure(d, "NMIP");
+		return;				
+	}
+#endif
 
 	DWORD dwKey = DESC_MANAGER::instance().CreateLoginKey(d);
 	DWORD dwPanamaKey = dwKey ^ pinfo->adwClientKey[0] ^ pinfo->adwClientKey[1] ^ pinfo->adwClientKey[2] ^ pinfo->adwClientKey[3];

@@ -5,6 +5,7 @@
 #define ENABLE_PROXY_IP
 #define ENABLE_PORT_SECURITY
 #define _IMPROVED_PACKET_ENCRYPTION_ // 패킷 암호화 개선
+#define ENABLE_LOGIN_SECURITY
 //#define __AUCTION__
 #define __PET_SYSTEM__
 #define __UDP_BLOCK__

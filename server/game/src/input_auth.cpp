@@ -314,7 +314,7 @@ void CInputAuth::LoginOpenID(LPDESC d, const char * c_pData)
 	//hardware ban revised
 	char query[1024];
 	snprintf(query, sizeof(query),"SELECT hwid FROM account.hwid_ban WHERE hwid = '%s'", pinfo->cHWInfo);
-	std::auto_ptr<SQLMsg> execquery(DBManager::instance().DirectQuery(query));
+	std::unique_ptr<SQLMsg> execquery(DBManager::instance().DirectQuery(query));
 	
 	if (execquery->Get()->uiNumRows >= 1)
 	{

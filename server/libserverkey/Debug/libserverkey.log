@@ -1,0 +1,14 @@
+﻿Build started 20.07.2018 17:29:50.
+     1>Project "E:\NEW SF\Server\libserverkey\libserverkey.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../../Extern/openssl/include /ZI /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D "_LIB" /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt RSACrypto.cpp base64_ssl.cpp
+         base64_ssl.cpp
+     1>e:\new sf\server\libserverkey\base64_ssl.cpp(2): fatal error C1083: Cannot open include file: 'openssl/sha.h': No such file or directory
+         RSACrypto.cpp
+     1>e:\new sf\server\libserverkey\rsacrypto.cpp(6): fatal error C1083: Cannot open include file: 'openssl/aes.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "E:\NEW SF\Server\libserverkey\libserverkey.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.54

@@ -1,0 +1,2050 @@
+# DO NOT DELETE
+
+.obj/Config.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/Config.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/Config.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/Config.o: /usr/include/machine/_types.h /usr/include/x86/_types.h
+.obj/Config.o: /usr/include/machine/_limits.h /usr/include/x86/_limits.h
+.obj/Config.o: /usr/include/string.h /usr/include/strings.h
+.obj/Config.o: /usr/include/xlocale/_strings.h /usr/include/xlocale/_string.h
+.obj/Config.o: /usr/include/stdarg.h /usr/include/x86/stdarg.h
+.obj/Config.o: /usr/include/sys/_stdarg.h /usr/include/errno.h
+.obj/Config.o: /usr/include/stdlib.h /usr/include/unistd.h
+.obj/Config.o: /usr/include/sys/types.h /usr/include/machine/endian.h
+.obj/Config.o: /usr/include/x86/endian.h /usr/include/sys/_endian.h
+.obj/Config.o: /usr/include/sys/_pthreadtypes.h /usr/include/sys/_stdint.h
+.obj/Config.o: /usr/include/sys/select.h /usr/include/sys/_sigset.h
+.obj/Config.o: /usr/include/sys/_timeval.h /usr/include/sys/timespec.h
+.obj/Config.o: /usr/include/sys/_timespec.h /usr/include/sys/unistd.h
+.obj/Config.o: /usr/include/fcntl.h /usr/include/assert.h
+.obj/Config.o: /usr/include/ctype.h /usr/include/_ctype.h
+.obj/Config.o: /usr/include/runetype.h /usr/include/xlocale/_ctype.h
+.obj/Config.o: /usr/include/limits.h /usr/include/sys/limits.h
+.obj/Config.o: /usr/include/sys/syslimits.h /usr/include/dirent.h
+.obj/Config.o: /usr/include/sys/dirent.h /usr/include/sys/time.h
+.obj/Config.o: /usr/include/sys/_clock_id.h /usr/include/time.h
+.obj/Config.o: /usr/include/xlocale/_time.h /usr/include/sys/stat.h
+.obj/Config.o: /usr/include/netinet/in.h /usr/include/sys/_sockaddr_storage.h
+.obj/Config.o: /usr/include/netinet6/in6.h /usr/include/arpa/inet.h
+.obj/Config.o: /usr/include/netdb.h /usr/include/sys/socket.h
+.obj/Config.o: /usr/include/sys/_iovec.h /usr/include/machine/_align.h
+.obj/Config.o: /usr/include/x86/_align.h /usr/include/sys/signal.h
+.obj/Config.o: /usr/include/machine/signal.h /usr/include/x86/signal.h
+.obj/Config.o: /usr/include/sys/wait.h /usr/include/pthread.h
+.obj/Config.o: /usr/include/sched.h /usr/include/sys/sched.h
+.obj/Config.o: /usr/include/sys/cpuset.h /usr/include/sys/_cpuset.h
+.obj/Config.o: /usr/include/sys/_bitset.h /usr/include/sys/bitset.h
+.obj/Config.o: /usr/include/semaphore.h /usr/include/sys/_umtx.h
+.obj/Config.o: /usr/include/sys/event.h /usr/include/sys/queue.h
+.obj/Config.o: ../../libthecore/include/typedef.h
+.obj/Config.o: ../../libthecore/include/heart.h
+.obj/Config.o: ../../libthecore/include/fdwatch.h
+.obj/Config.o: ../../libthecore/include/socket.h
+.obj/Config.o: ../../libthecore/include/kstbl.h
+.obj/Config.o: ../../libthecore/include/hangul.h
+.obj/Config.o: ../../libthecore/include/buffer.h
+.obj/Config.o: ../../libthecore/include/signal.h
+.obj/Config.o: ../../libthecore/include/log.h ../../libthecore/include/main.h
+.obj/Config.o: ../../libthecore/include/utils.h
+.obj/Config.o: ../../libthecore/include/crypt.h
+.obj/Config.o: ../../libthecore/include/memcpy.h ../../common/length.h
+.obj/Config.o: ../../common/item_length.h ../../common/tables.h
+.obj/Config.o: ../../common/length.h ../../common/singleton.h
+.obj/Config.o: ../../common/utils.h ../../common/stl.h ../../common/service.h
+.obj/Config.o: Config.h
+.obj/NetBase.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/NetBase.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/NetBase.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/NetBase.o: /usr/include/machine/_types.h /usr/include/x86/_types.h
+.obj/NetBase.o: /usr/include/machine/_limits.h /usr/include/x86/_limits.h
+.obj/NetBase.o: /usr/include/string.h /usr/include/strings.h
+.obj/NetBase.o: /usr/include/xlocale/_strings.h
+.obj/NetBase.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/NetBase.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/NetBase.o: /usr/include/errno.h /usr/include/stdlib.h
+.obj/NetBase.o: /usr/include/unistd.h /usr/include/sys/types.h
+.obj/NetBase.o: /usr/include/machine/endian.h /usr/include/x86/endian.h
+.obj/NetBase.o: /usr/include/sys/_endian.h /usr/include/sys/_pthreadtypes.h
+.obj/NetBase.o: /usr/include/sys/_stdint.h /usr/include/sys/select.h
+.obj/NetBase.o: /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h
+.obj/NetBase.o: /usr/include/sys/timespec.h /usr/include/sys/_timespec.h
+.obj/NetBase.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/NetBase.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/NetBase.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/NetBase.o: /usr/include/xlocale/_ctype.h /usr/include/limits.h
+.obj/NetBase.o: /usr/include/sys/limits.h /usr/include/sys/syslimits.h
+.obj/NetBase.o: /usr/include/dirent.h /usr/include/sys/dirent.h
+.obj/NetBase.o: /usr/include/sys/time.h /usr/include/sys/_clock_id.h
+.obj/NetBase.o: /usr/include/time.h /usr/include/xlocale/_time.h
+.obj/NetBase.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/NetBase.o: /usr/include/sys/_sockaddr_storage.h
+.obj/NetBase.o: /usr/include/netinet6/in6.h /usr/include/arpa/inet.h
+.obj/NetBase.o: /usr/include/netdb.h /usr/include/sys/socket.h
+.obj/NetBase.o: /usr/include/sys/_iovec.h /usr/include/machine/_align.h
+.obj/NetBase.o: /usr/include/x86/_align.h /usr/include/sys/signal.h
+.obj/NetBase.o: /usr/include/machine/signal.h /usr/include/x86/signal.h
+.obj/NetBase.o: /usr/include/sys/wait.h /usr/include/pthread.h
+.obj/NetBase.o: /usr/include/sched.h /usr/include/sys/sched.h
+.obj/NetBase.o: /usr/include/sys/cpuset.h /usr/include/sys/_cpuset.h
+.obj/NetBase.o: /usr/include/sys/_bitset.h /usr/include/sys/bitset.h
+.obj/NetBase.o: /usr/include/semaphore.h /usr/include/sys/_umtx.h
+.obj/NetBase.o: /usr/include/sys/event.h /usr/include/sys/queue.h
+.obj/NetBase.o: ../../libthecore/include/typedef.h
+.obj/NetBase.o: ../../libthecore/include/heart.h
+.obj/NetBase.o: ../../libthecore/include/fdwatch.h
+.obj/NetBase.o: ../../libthecore/include/socket.h
+.obj/NetBase.o: ../../libthecore/include/kstbl.h
+.obj/NetBase.o: ../../libthecore/include/hangul.h
+.obj/NetBase.o: ../../libthecore/include/buffer.h
+.obj/NetBase.o: ../../libthecore/include/signal.h
+.obj/NetBase.o: ../../libthecore/include/log.h
+.obj/NetBase.o: ../../libthecore/include/main.h
+.obj/NetBase.o: ../../libthecore/include/utils.h
+.obj/NetBase.o: ../../libthecore/include/crypt.h
+.obj/NetBase.o: ../../libthecore/include/memcpy.h ../../common/length.h
+.obj/NetBase.o: ../../common/item_length.h ../../common/tables.h
+.obj/NetBase.o: ../../common/length.h ../../common/singleton.h
+.obj/NetBase.o: ../../common/utils.h ../../common/stl.h
+.obj/NetBase.o: ../../common/service.h NetBase.h Config.h ClientManager.h
+.obj/NetBase.o: ../../common/building.h ../../common/auction_table.h
+.obj/NetBase.o: ../../common/tables.h Peer.h PeerBase.h DBManager.h
+.obj/NetBase.o: /usr/local/include/mysql/mysql.h
+.obj/NetBase.o: /usr/local/include/mysql/mysql_version.h
+.obj/NetBase.o: /usr/local/include/mysql/mysql_com.h
+.obj/NetBase.o: /usr/local/include/mysql/mysql_time.h
+.obj/NetBase.o: /usr/local/include/mysql/my_list.h
+.obj/NetBase.o: /usr/local/include/mysql/typelib.h
+.obj/NetBase.o: /usr/local/include/mysql/my_alloc.h ../../libsql/AsyncSQL.h
+.obj/NetBase.o: ../../libthecore/include/stdafx.h
+.obj/NetBase.o: ../../libthecore/include/log.h
+.obj/NetBase.o: /usr/local/include/mysql/errmsg.h
+.obj/NetBase.o: /usr/local/include/mysql/mysqld_error.h
+.obj/NetBase.o: ../../libsql/Semaphore.h LoginData.h
+.obj/Peer.o: stdafx.h ../../libthecore/include/stdafx.h /usr/include/stdio.h
+.obj/Peer.o: /usr/include/sys/cdefs.h /usr/include/sys/_null.h
+.obj/Peer.o: /usr/include/sys/_types.h /usr/include/machine/_types.h
+.obj/Peer.o: /usr/include/x86/_types.h /usr/include/machine/_limits.h
+.obj/Peer.o: /usr/include/x86/_limits.h /usr/include/string.h
+.obj/Peer.o: /usr/include/strings.h /usr/include/xlocale/_strings.h
+.obj/Peer.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/Peer.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/Peer.o: /usr/include/errno.h /usr/include/stdlib.h /usr/include/unistd.h
+.obj/Peer.o: /usr/include/sys/types.h /usr/include/machine/endian.h
+.obj/Peer.o: /usr/include/x86/endian.h /usr/include/sys/_endian.h
+.obj/Peer.o: /usr/include/sys/_pthreadtypes.h /usr/include/sys/_stdint.h
+.obj/Peer.o: /usr/include/sys/select.h /usr/include/sys/_sigset.h
+.obj/Peer.o: /usr/include/sys/_timeval.h /usr/include/sys/timespec.h
+.obj/Peer.o: /usr/include/sys/_timespec.h /usr/include/sys/unistd.h
+.obj/Peer.o: /usr/include/fcntl.h /usr/include/assert.h /usr/include/ctype.h
+.obj/Peer.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/Peer.o: /usr/include/xlocale/_ctype.h /usr/include/limits.h
+.obj/Peer.o: /usr/include/sys/limits.h /usr/include/sys/syslimits.h
+.obj/Peer.o: /usr/include/dirent.h /usr/include/sys/dirent.h
+.obj/Peer.o: /usr/include/sys/time.h /usr/include/sys/_clock_id.h
+.obj/Peer.o: /usr/include/time.h /usr/include/xlocale/_time.h
+.obj/Peer.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/Peer.o: /usr/include/sys/_sockaddr_storage.h /usr/include/netinet6/in6.h
+.obj/Peer.o: /usr/include/arpa/inet.h /usr/include/netdb.h
+.obj/Peer.o: /usr/include/sys/socket.h /usr/include/sys/_iovec.h
+.obj/Peer.o: /usr/include/machine/_align.h /usr/include/x86/_align.h
+.obj/Peer.o: /usr/include/sys/signal.h /usr/include/machine/signal.h
+.obj/Peer.o: /usr/include/x86/signal.h /usr/include/sys/wait.h
+.obj/Peer.o: /usr/include/pthread.h /usr/include/sched.h
+.obj/Peer.o: /usr/include/sys/sched.h /usr/include/sys/cpuset.h
+.obj/Peer.o: /usr/include/sys/_cpuset.h /usr/include/sys/_bitset.h
+.obj/Peer.o: /usr/include/sys/bitset.h /usr/include/semaphore.h
+.obj/Peer.o: /usr/include/sys/_umtx.h /usr/include/sys/event.h
+.obj/Peer.o: /usr/include/sys/queue.h ../../libthecore/include/typedef.h
+.obj/Peer.o: ../../libthecore/include/heart.h
+.obj/Peer.o: ../../libthecore/include/fdwatch.h
+.obj/Peer.o: ../../libthecore/include/socket.h
+.obj/Peer.o: ../../libthecore/include/kstbl.h
+.obj/Peer.o: ../../libthecore/include/hangul.h
+.obj/Peer.o: ../../libthecore/include/buffer.h
+.obj/Peer.o: ../../libthecore/include/signal.h ../../libthecore/include/log.h
+.obj/Peer.o: ../../libthecore/include/main.h ../../libthecore/include/utils.h
+.obj/Peer.o: ../../libthecore/include/crypt.h
+.obj/Peer.o: ../../libthecore/include/memcpy.h ../../common/length.h
+.obj/Peer.o: ../../common/item_length.h ../../common/tables.h
+.obj/Peer.o: ../../common/length.h ../../common/singleton.h
+.obj/Peer.o: ../../common/utils.h ../../common/stl.h ../../common/service.h
+.obj/Peer.o: Peer.h PeerBase.h NetBase.h ItemIDRangeManager.h
+.obj/PeerBase.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/PeerBase.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/PeerBase.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/PeerBase.o: /usr/include/machine/_types.h /usr/include/x86/_types.h
+.obj/PeerBase.o: /usr/include/machine/_limits.h /usr/include/x86/_limits.h
+.obj/PeerBase.o: /usr/include/string.h /usr/include/strings.h
+.obj/PeerBase.o: /usr/include/xlocale/_strings.h
+.obj/PeerBase.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/PeerBase.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/PeerBase.o: /usr/include/errno.h /usr/include/stdlib.h
+.obj/PeerBase.o: /usr/include/unistd.h /usr/include/sys/types.h
+.obj/PeerBase.o: /usr/include/machine/endian.h /usr/include/x86/endian.h
+.obj/PeerBase.o: /usr/include/sys/_endian.h /usr/include/sys/_pthreadtypes.h
+.obj/PeerBase.o: /usr/include/sys/_stdint.h /usr/include/sys/select.h
+.obj/PeerBase.o: /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h
+.obj/PeerBase.o: /usr/include/sys/timespec.h /usr/include/sys/_timespec.h
+.obj/PeerBase.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/PeerBase.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/PeerBase.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/PeerBase.o: /usr/include/xlocale/_ctype.h /usr/include/limits.h
+.obj/PeerBase.o: /usr/include/sys/limits.h /usr/include/sys/syslimits.h
+.obj/PeerBase.o: /usr/include/dirent.h /usr/include/sys/dirent.h
+.obj/PeerBase.o: /usr/include/sys/time.h /usr/include/sys/_clock_id.h
+.obj/PeerBase.o: /usr/include/time.h /usr/include/xlocale/_time.h
+.obj/PeerBase.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/PeerBase.o: /usr/include/sys/_sockaddr_storage.h
+.obj/PeerBase.o: /usr/include/netinet6/in6.h /usr/include/arpa/inet.h
+.obj/PeerBase.o: /usr/include/netdb.h /usr/include/sys/socket.h
+.obj/PeerBase.o: /usr/include/sys/_iovec.h /usr/include/machine/_align.h
+.obj/PeerBase.o: /usr/include/x86/_align.h /usr/include/sys/signal.h
+.obj/PeerBase.o: /usr/include/machine/signal.h /usr/include/x86/signal.h
+.obj/PeerBase.o: /usr/include/sys/wait.h /usr/include/pthread.h
+.obj/PeerBase.o: /usr/include/sched.h /usr/include/sys/sched.h
+.obj/PeerBase.o: /usr/include/sys/cpuset.h /usr/include/sys/_cpuset.h
+.obj/PeerBase.o: /usr/include/sys/_bitset.h /usr/include/sys/bitset.h
+.obj/PeerBase.o: /usr/include/semaphore.h /usr/include/sys/_umtx.h
+.obj/PeerBase.o: /usr/include/sys/event.h /usr/include/sys/queue.h
+.obj/PeerBase.o: ../../libthecore/include/typedef.h
+.obj/PeerBase.o: ../../libthecore/include/heart.h
+.obj/PeerBase.o: ../../libthecore/include/fdwatch.h
+.obj/PeerBase.o: ../../libthecore/include/socket.h
+.obj/PeerBase.o: ../../libthecore/include/kstbl.h
+.obj/PeerBase.o: ../../libthecore/include/hangul.h
+.obj/PeerBase.o: ../../libthecore/include/buffer.h
+.obj/PeerBase.o: ../../libthecore/include/signal.h
+.obj/PeerBase.o: ../../libthecore/include/log.h
+.obj/PeerBase.o: ../../libthecore/include/main.h
+.obj/PeerBase.o: ../../libthecore/include/utils.h
+.obj/PeerBase.o: ../../libthecore/include/crypt.h
+.obj/PeerBase.o: ../../libthecore/include/memcpy.h ../../common/length.h
+.obj/PeerBase.o: ../../common/item_length.h ../../common/tables.h
+.obj/PeerBase.o: ../../common/length.h ../../common/singleton.h
+.obj/PeerBase.o: ../../common/utils.h ../../common/stl.h
+.obj/PeerBase.o: ../../common/service.h PeerBase.h NetBase.h
+.obj/Main.o: stdafx.h ../../libthecore/include/stdafx.h /usr/include/stdio.h
+.obj/Main.o: /usr/include/sys/cdefs.h /usr/include/sys/_null.h
+.obj/Main.o: /usr/include/sys/_types.h /usr/include/machine/_types.h
+.obj/Main.o: /usr/include/x86/_types.h /usr/include/machine/_limits.h
+.obj/Main.o: /usr/include/x86/_limits.h /usr/include/string.h
+.obj/Main.o: /usr/include/strings.h /usr/include/xlocale/_strings.h
+.obj/Main.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/Main.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/Main.o: /usr/include/errno.h /usr/include/stdlib.h /usr/include/unistd.h
+.obj/Main.o: /usr/include/sys/types.h /usr/include/machine/endian.h
+.obj/Main.o: /usr/include/x86/endian.h /usr/include/sys/_endian.h
+.obj/Main.o: /usr/include/sys/_pthreadtypes.h /usr/include/sys/_stdint.h
+.obj/Main.o: /usr/include/sys/select.h /usr/include/sys/_sigset.h
+.obj/Main.o: /usr/include/sys/_timeval.h /usr/include/sys/timespec.h
+.obj/Main.o: /usr/include/sys/_timespec.h /usr/include/sys/unistd.h
+.obj/Main.o: /usr/include/fcntl.h /usr/include/assert.h /usr/include/ctype.h
+.obj/Main.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/Main.o: /usr/include/xlocale/_ctype.h /usr/include/limits.h
+.obj/Main.o: /usr/include/sys/limits.h /usr/include/sys/syslimits.h
+.obj/Main.o: /usr/include/dirent.h /usr/include/sys/dirent.h
+.obj/Main.o: /usr/include/sys/time.h /usr/include/sys/_clock_id.h
+.obj/Main.o: /usr/include/time.h /usr/include/xlocale/_time.h
+.obj/Main.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/Main.o: /usr/include/sys/_sockaddr_storage.h /usr/include/netinet6/in6.h
+.obj/Main.o: /usr/include/arpa/inet.h /usr/include/netdb.h
+.obj/Main.o: /usr/include/sys/socket.h /usr/include/sys/_iovec.h
+.obj/Main.o: /usr/include/machine/_align.h /usr/include/x86/_align.h
+.obj/Main.o: /usr/include/sys/signal.h /usr/include/machine/signal.h
+.obj/Main.o: /usr/include/x86/signal.h /usr/include/sys/wait.h
+.obj/Main.o: /usr/include/pthread.h /usr/include/sched.h
+.obj/Main.o: /usr/include/sys/sched.h /usr/include/sys/cpuset.h
+.obj/Main.o: /usr/include/sys/_cpuset.h /usr/include/sys/_bitset.h
+.obj/Main.o: /usr/include/sys/bitset.h /usr/include/semaphore.h
+.obj/Main.o: /usr/include/sys/_umtx.h /usr/include/sys/event.h
+.obj/Main.o: /usr/include/sys/queue.h ../../libthecore/include/typedef.h
+.obj/Main.o: ../../libthecore/include/heart.h
+.obj/Main.o: ../../libthecore/include/fdwatch.h
+.obj/Main.o: ../../libthecore/include/socket.h
+.obj/Main.o: ../../libthecore/include/kstbl.h
+.obj/Main.o: ../../libthecore/include/hangul.h
+.obj/Main.o: ../../libthecore/include/buffer.h
+.obj/Main.o: ../../libthecore/include/signal.h ../../libthecore/include/log.h
+.obj/Main.o: ../../libthecore/include/main.h ../../libthecore/include/utils.h
+.obj/Main.o: ../../libthecore/include/crypt.h
+.obj/Main.o: ../../libthecore/include/memcpy.h ../../common/length.h
+.obj/Main.o: ../../common/item_length.h ../../common/tables.h
+.obj/Main.o: ../../common/length.h ../../common/singleton.h
+.obj/Main.o: ../../common/utils.h ../../common/stl.h ../../common/service.h
+.obj/Main.o: Config.h Peer.h PeerBase.h NetBase.h DBManager.h
+.obj/Main.o: /usr/local/include/mysql/mysql.h
+.obj/Main.o: /usr/local/include/mysql/mysql_version.h
+.obj/Main.o: /usr/local/include/mysql/mysql_com.h
+.obj/Main.o: /usr/local/include/mysql/mysql_time.h
+.obj/Main.o: /usr/local/include/mysql/my_list.h
+.obj/Main.o: /usr/local/include/mysql/typelib.h
+.obj/Main.o: /usr/local/include/mysql/my_alloc.h ../../libsql/AsyncSQL.h
+.obj/Main.o: ../../libthecore/include/stdafx.h ../../libthecore/include/log.h
+.obj/Main.o: /usr/local/include/mysql/errmsg.h
+.obj/Main.o: /usr/local/include/mysql/mysqld_error.h ../../libsql/Semaphore.h
+.obj/Main.o: ClientManager.h ../../common/building.h
+.obj/Main.o: ../../common/auction_table.h ../../common/tables.h LoginData.h
+.obj/Main.o: GuildManager.h ../../libsql/libsql.h ../../libsql/AsyncSQL.h
+.obj/Main.o: ../../libpoly/Poly.h ../../libpoly/SymTable.h ItemAwardManager.h
+.obj/Main.o: HB.h PrivManager.h MoneyLog.h Marriage.h Monarch.h
+.obj/Main.o: BlockCountry.h ItemIDRangeManager.h
+.obj/Lock.o: stdafx.h ../../libthecore/include/stdafx.h /usr/include/stdio.h
+.obj/Lock.o: /usr/include/sys/cdefs.h /usr/include/sys/_null.h
+.obj/Lock.o: /usr/include/sys/_types.h /usr/include/machine/_types.h
+.obj/Lock.o: /usr/include/x86/_types.h /usr/include/machine/_limits.h
+.obj/Lock.o: /usr/include/x86/_limits.h /usr/include/string.h
+.obj/Lock.o: /usr/include/strings.h /usr/include/xlocale/_strings.h
+.obj/Lock.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/Lock.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/Lock.o: /usr/include/errno.h /usr/include/stdlib.h /usr/include/unistd.h
+.obj/Lock.o: /usr/include/sys/types.h /usr/include/machine/endian.h
+.obj/Lock.o: /usr/include/x86/endian.h /usr/include/sys/_endian.h
+.obj/Lock.o: /usr/include/sys/_pthreadtypes.h /usr/include/sys/_stdint.h
+.obj/Lock.o: /usr/include/sys/select.h /usr/include/sys/_sigset.h
+.obj/Lock.o: /usr/include/sys/_timeval.h /usr/include/sys/timespec.h
+.obj/Lock.o: /usr/include/sys/_timespec.h /usr/include/sys/unistd.h
+.obj/Lock.o: /usr/include/fcntl.h /usr/include/assert.h /usr/include/ctype.h
+.obj/Lock.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/Lock.o: /usr/include/xlocale/_ctype.h /usr/include/limits.h
+.obj/Lock.o: /usr/include/sys/limits.h /usr/include/sys/syslimits.h
+.obj/Lock.o: /usr/include/dirent.h /usr/include/sys/dirent.h
+.obj/Lock.o: /usr/include/sys/time.h /usr/include/sys/_clock_id.h
+.obj/Lock.o: /usr/include/time.h /usr/include/xlocale/_time.h
+.obj/Lock.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/Lock.o: /usr/include/sys/_sockaddr_storage.h /usr/include/netinet6/in6.h
+.obj/Lock.o: /usr/include/arpa/inet.h /usr/include/netdb.h
+.obj/Lock.o: /usr/include/sys/socket.h /usr/include/sys/_iovec.h
+.obj/Lock.o: /usr/include/machine/_align.h /usr/include/x86/_align.h
+.obj/Lock.o: /usr/include/sys/signal.h /usr/include/machine/signal.h
+.obj/Lock.o: /usr/include/x86/signal.h /usr/include/sys/wait.h
+.obj/Lock.o: /usr/include/pthread.h /usr/include/sched.h
+.obj/Lock.o: /usr/include/sys/sched.h /usr/include/sys/cpuset.h
+.obj/Lock.o: /usr/include/sys/_cpuset.h /usr/include/sys/_bitset.h
+.obj/Lock.o: /usr/include/sys/bitset.h /usr/include/semaphore.h
+.obj/Lock.o: /usr/include/sys/_umtx.h /usr/include/sys/event.h
+.obj/Lock.o: /usr/include/sys/queue.h ../../libthecore/include/typedef.h
+.obj/Lock.o: ../../libthecore/include/heart.h
+.obj/Lock.o: ../../libthecore/include/fdwatch.h
+.obj/Lock.o: ../../libthecore/include/socket.h
+.obj/Lock.o: ../../libthecore/include/kstbl.h
+.obj/Lock.o: ../../libthecore/include/hangul.h
+.obj/Lock.o: ../../libthecore/include/buffer.h
+.obj/Lock.o: ../../libthecore/include/signal.h ../../libthecore/include/log.h
+.obj/Lock.o: ../../libthecore/include/main.h ../../libthecore/include/utils.h
+.obj/Lock.o: ../../libthecore/include/crypt.h
+.obj/Lock.o: ../../libthecore/include/memcpy.h ../../common/length.h
+.obj/Lock.o: ../../common/item_length.h ../../common/tables.h
+.obj/Lock.o: ../../common/length.h ../../common/singleton.h
+.obj/Lock.o: ../../common/utils.h ../../common/stl.h ../../common/service.h
+.obj/Lock.o: Lock.h
+.obj/DBManager.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/DBManager.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/DBManager.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/DBManager.o: /usr/include/machine/_types.h /usr/include/x86/_types.h
+.obj/DBManager.o: /usr/include/machine/_limits.h /usr/include/x86/_limits.h
+.obj/DBManager.o: /usr/include/string.h /usr/include/strings.h
+.obj/DBManager.o: /usr/include/xlocale/_strings.h
+.obj/DBManager.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/DBManager.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/DBManager.o: /usr/include/errno.h /usr/include/stdlib.h
+.obj/DBManager.o: /usr/include/unistd.h /usr/include/sys/types.h
+.obj/DBManager.o: /usr/include/machine/endian.h /usr/include/x86/endian.h
+.obj/DBManager.o: /usr/include/sys/_endian.h /usr/include/sys/_pthreadtypes.h
+.obj/DBManager.o: /usr/include/sys/_stdint.h /usr/include/sys/select.h
+.obj/DBManager.o: /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h
+.obj/DBManager.o: /usr/include/sys/timespec.h /usr/include/sys/_timespec.h
+.obj/DBManager.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/DBManager.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/DBManager.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/DBManager.o: /usr/include/xlocale/_ctype.h /usr/include/limits.h
+.obj/DBManager.o: /usr/include/sys/limits.h /usr/include/sys/syslimits.h
+.obj/DBManager.o: /usr/include/dirent.h /usr/include/sys/dirent.h
+.obj/DBManager.o: /usr/include/sys/time.h /usr/include/sys/_clock_id.h
+.obj/DBManager.o: /usr/include/time.h /usr/include/xlocale/_time.h
+.obj/DBManager.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/DBManager.o: /usr/include/sys/_sockaddr_storage.h
+.obj/DBManager.o: /usr/include/netinet6/in6.h /usr/include/arpa/inet.h
+.obj/DBManager.o: /usr/include/netdb.h /usr/include/sys/socket.h
+.obj/DBManager.o: /usr/include/sys/_iovec.h /usr/include/machine/_align.h
+.obj/DBManager.o: /usr/include/x86/_align.h /usr/include/sys/signal.h
+.obj/DBManager.o: /usr/include/machine/signal.h /usr/include/x86/signal.h
+.obj/DBManager.o: /usr/include/sys/wait.h /usr/include/pthread.h
+.obj/DBManager.o: /usr/include/sched.h /usr/include/sys/sched.h
+.obj/DBManager.o: /usr/include/sys/cpuset.h /usr/include/sys/_cpuset.h
+.obj/DBManager.o: /usr/include/sys/_bitset.h /usr/include/sys/bitset.h
+.obj/DBManager.o: /usr/include/semaphore.h /usr/include/sys/_umtx.h
+.obj/DBManager.o: /usr/include/sys/event.h /usr/include/sys/queue.h
+.obj/DBManager.o: ../../libthecore/include/typedef.h
+.obj/DBManager.o: ../../libthecore/include/heart.h
+.obj/DBManager.o: ../../libthecore/include/fdwatch.h
+.obj/DBManager.o: ../../libthecore/include/socket.h
+.obj/DBManager.o: ../../libthecore/include/kstbl.h
+.obj/DBManager.o: ../../libthecore/include/hangul.h
+.obj/DBManager.o: ../../libthecore/include/buffer.h
+.obj/DBManager.o: ../../libthecore/include/signal.h
+.obj/DBManager.o: ../../libthecore/include/log.h
+.obj/DBManager.o: ../../libthecore/include/main.h
+.obj/DBManager.o: ../../libthecore/include/utils.h
+.obj/DBManager.o: ../../libthecore/include/crypt.h
+.obj/DBManager.o: ../../libthecore/include/memcpy.h ../../common/length.h
+.obj/DBManager.o: ../../common/item_length.h ../../common/tables.h
+.obj/DBManager.o: ../../common/length.h ../../common/singleton.h
+.obj/DBManager.o: ../../common/utils.h ../../common/stl.h
+.obj/DBManager.o: ../../common/service.h DBManager.h
+.obj/DBManager.o: /usr/local/include/mysql/mysql.h
+.obj/DBManager.o: /usr/local/include/mysql/mysql_version.h
+.obj/DBManager.o: /usr/local/include/mysql/mysql_com.h
+.obj/DBManager.o: /usr/local/include/mysql/mysql_time.h
+.obj/DBManager.o: /usr/local/include/mysql/my_list.h
+.obj/DBManager.o: /usr/local/include/mysql/typelib.h
+.obj/DBManager.o: /usr/local/include/mysql/my_alloc.h ../../libsql/AsyncSQL.h
+.obj/DBManager.o: ../../libthecore/include/stdafx.h
+.obj/DBManager.o: ../../libthecore/include/log.h
+.obj/DBManager.o: /usr/local/include/mysql/errmsg.h
+.obj/DBManager.o: /usr/local/include/mysql/mysqld_error.h
+.obj/DBManager.o: ../../libsql/Semaphore.h ClientManager.h
+.obj/DBManager.o: ../../common/building.h ../../common/auction_table.h
+.obj/DBManager.o: ../../common/tables.h Peer.h PeerBase.h NetBase.h
+.obj/DBManager.o: LoginData.h
+.obj/Cache.o: stdafx.h ../../libthecore/include/stdafx.h /usr/include/stdio.h
+.obj/Cache.o: /usr/include/sys/cdefs.h /usr/include/sys/_null.h
+.obj/Cache.o: /usr/include/sys/_types.h /usr/include/machine/_types.h
+.obj/Cache.o: /usr/include/x86/_types.h /usr/include/machine/_limits.h
+.obj/Cache.o: /usr/include/x86/_limits.h /usr/include/string.h
+.obj/Cache.o: /usr/include/strings.h /usr/include/xlocale/_strings.h
+.obj/Cache.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/Cache.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/Cache.o: /usr/include/errno.h /usr/include/stdlib.h
+.obj/Cache.o: /usr/include/unistd.h /usr/include/sys/types.h
+.obj/Cache.o: /usr/include/machine/endian.h /usr/include/x86/endian.h
+.obj/Cache.o: /usr/include/sys/_endian.h /usr/include/sys/_pthreadtypes.h
+.obj/Cache.o: /usr/include/sys/_stdint.h /usr/include/sys/select.h
+.obj/Cache.o: /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h
+.obj/Cache.o: /usr/include/sys/timespec.h /usr/include/sys/_timespec.h
+.obj/Cache.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/Cache.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/Cache.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/Cache.o: /usr/include/xlocale/_ctype.h /usr/include/limits.h
+.obj/Cache.o: /usr/include/sys/limits.h /usr/include/sys/syslimits.h
+.obj/Cache.o: /usr/include/dirent.h /usr/include/sys/dirent.h
+.obj/Cache.o: /usr/include/sys/time.h /usr/include/sys/_clock_id.h
+.obj/Cache.o: /usr/include/time.h /usr/include/xlocale/_time.h
+.obj/Cache.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/Cache.o: /usr/include/sys/_sockaddr_storage.h
+.obj/Cache.o: /usr/include/netinet6/in6.h /usr/include/arpa/inet.h
+.obj/Cache.o: /usr/include/netdb.h /usr/include/sys/socket.h
+.obj/Cache.o: /usr/include/sys/_iovec.h /usr/include/machine/_align.h
+.obj/Cache.o: /usr/include/x86/_align.h /usr/include/sys/signal.h
+.obj/Cache.o: /usr/include/machine/signal.h /usr/include/x86/signal.h
+.obj/Cache.o: /usr/include/sys/wait.h /usr/include/pthread.h
+.obj/Cache.o: /usr/include/sched.h /usr/include/sys/sched.h
+.obj/Cache.o: /usr/include/sys/cpuset.h /usr/include/sys/_cpuset.h
+.obj/Cache.o: /usr/include/sys/_bitset.h /usr/include/sys/bitset.h
+.obj/Cache.o: /usr/include/semaphore.h /usr/include/sys/_umtx.h
+.obj/Cache.o: /usr/include/sys/event.h /usr/include/sys/queue.h
+.obj/Cache.o: ../../libthecore/include/typedef.h
+.obj/Cache.o: ../../libthecore/include/heart.h
+.obj/Cache.o: ../../libthecore/include/fdwatch.h
+.obj/Cache.o: ../../libthecore/include/socket.h
+.obj/Cache.o: ../../libthecore/include/kstbl.h
+.obj/Cache.o: ../../libthecore/include/hangul.h
+.obj/Cache.o: ../../libthecore/include/buffer.h
+.obj/Cache.o: ../../libthecore/include/signal.h
+.obj/Cache.o: ../../libthecore/include/log.h ../../libthecore/include/main.h
+.obj/Cache.o: ../../libthecore/include/utils.h
+.obj/Cache.o: ../../libthecore/include/crypt.h
+.obj/Cache.o: ../../libthecore/include/memcpy.h ../../common/length.h
+.obj/Cache.o: ../../common/item_length.h ../../common/tables.h
+.obj/Cache.o: ../../common/length.h ../../common/singleton.h
+.obj/Cache.o: ../../common/utils.h ../../common/stl.h ../../common/service.h
+.obj/Cache.o: Cache.h ../../common/cache.h ../../common/auction_table.h
+.obj/Cache.o: ../../common/tables.h QID.h ClientManager.h
+.obj/Cache.o: ../../common/building.h Peer.h PeerBase.h NetBase.h DBManager.h
+.obj/Cache.o: /usr/local/include/mysql/mysql.h
+.obj/Cache.o: /usr/local/include/mysql/mysql_version.h
+.obj/Cache.o: /usr/local/include/mysql/mysql_com.h
+.obj/Cache.o: /usr/local/include/mysql/mysql_time.h
+.obj/Cache.o: /usr/local/include/mysql/my_list.h
+.obj/Cache.o: /usr/local/include/mysql/typelib.h
+.obj/Cache.o: /usr/local/include/mysql/my_alloc.h ../../libsql/AsyncSQL.h
+.obj/Cache.o: ../../libthecore/include/stdafx.h
+.obj/Cache.o: ../../libthecore/include/log.h
+.obj/Cache.o: /usr/local/include/mysql/errmsg.h
+.obj/Cache.o: /usr/local/include/mysql/mysqld_error.h
+.obj/Cache.o: ../../libsql/Semaphore.h LoginData.h Main.h
+.obj/LoginData.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/LoginData.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/LoginData.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/LoginData.o: /usr/include/machine/_types.h /usr/include/x86/_types.h
+.obj/LoginData.o: /usr/include/machine/_limits.h /usr/include/x86/_limits.h
+.obj/LoginData.o: /usr/include/string.h /usr/include/strings.h
+.obj/LoginData.o: /usr/include/xlocale/_strings.h
+.obj/LoginData.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/LoginData.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/LoginData.o: /usr/include/errno.h /usr/include/stdlib.h
+.obj/LoginData.o: /usr/include/unistd.h /usr/include/sys/types.h
+.obj/LoginData.o: /usr/include/machine/endian.h /usr/include/x86/endian.h
+.obj/LoginData.o: /usr/include/sys/_endian.h /usr/include/sys/_pthreadtypes.h
+.obj/LoginData.o: /usr/include/sys/_stdint.h /usr/include/sys/select.h
+.obj/LoginData.o: /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h
+.obj/LoginData.o: /usr/include/sys/timespec.h /usr/include/sys/_timespec.h
+.obj/LoginData.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/LoginData.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/LoginData.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/LoginData.o: /usr/include/xlocale/_ctype.h /usr/include/limits.h
+.obj/LoginData.o: /usr/include/sys/limits.h /usr/include/sys/syslimits.h
+.obj/LoginData.o: /usr/include/dirent.h /usr/include/sys/dirent.h
+.obj/LoginData.o: /usr/include/sys/time.h /usr/include/sys/_clock_id.h
+.obj/LoginData.o: /usr/include/time.h /usr/include/xlocale/_time.h
+.obj/LoginData.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/LoginData.o: /usr/include/sys/_sockaddr_storage.h
+.obj/LoginData.o: /usr/include/netinet6/in6.h /usr/include/arpa/inet.h
+.obj/LoginData.o: /usr/include/netdb.h /usr/include/sys/socket.h
+.obj/LoginData.o: /usr/include/sys/_iovec.h /usr/include/machine/_align.h
+.obj/LoginData.o: /usr/include/x86/_align.h /usr/include/sys/signal.h
+.obj/LoginData.o: /usr/include/machine/signal.h /usr/include/x86/signal.h
+.obj/LoginData.o: /usr/include/sys/wait.h /usr/include/pthread.h
+.obj/LoginData.o: /usr/include/sched.h /usr/include/sys/sched.h
+.obj/LoginData.o: /usr/include/sys/cpuset.h /usr/include/sys/_cpuset.h
+.obj/LoginData.o: /usr/include/sys/_bitset.h /usr/include/sys/bitset.h
+.obj/LoginData.o: /usr/include/semaphore.h /usr/include/sys/_umtx.h
+.obj/LoginData.o: /usr/include/sys/event.h /usr/include/sys/queue.h
+.obj/LoginData.o: ../../libthecore/include/typedef.h
+.obj/LoginData.o: ../../libthecore/include/heart.h
+.obj/LoginData.o: ../../libthecore/include/fdwatch.h
+.obj/LoginData.o: ../../libthecore/include/socket.h
+.obj/LoginData.o: ../../libthecore/include/kstbl.h
+.obj/LoginData.o: ../../libthecore/include/hangul.h
+.obj/LoginData.o: ../../libthecore/include/buffer.h
+.obj/LoginData.o: ../../libthecore/include/signal.h
+.obj/LoginData.o: ../../libthecore/include/log.h
+.obj/LoginData.o: ../../libthecore/include/main.h
+.obj/LoginData.o: ../../libthecore/include/utils.h
+.obj/LoginData.o: ../../libthecore/include/crypt.h
+.obj/LoginData.o: ../../libthecore/include/memcpy.h ../../common/length.h
+.obj/LoginData.o: ../../common/item_length.h ../../common/tables.h
+.obj/LoginData.o: ../../common/length.h ../../common/singleton.h
+.obj/LoginData.o: ../../common/utils.h ../../common/stl.h
+.obj/LoginData.o: ../../common/service.h LoginData.h ClientManager.h
+.obj/LoginData.o: ../../common/building.h ../../common/auction_table.h
+.obj/LoginData.o: ../../common/tables.h Peer.h PeerBase.h NetBase.h
+.obj/LoginData.o: DBManager.h /usr/local/include/mysql/mysql.h
+.obj/LoginData.o: /usr/local/include/mysql/mysql_version.h
+.obj/LoginData.o: /usr/local/include/mysql/mysql_com.h
+.obj/LoginData.o: /usr/local/include/mysql/mysql_time.h
+.obj/LoginData.o: /usr/local/include/mysql/my_list.h
+.obj/LoginData.o: /usr/local/include/mysql/typelib.h
+.obj/LoginData.o: /usr/local/include/mysql/my_alloc.h ../../libsql/AsyncSQL.h
+.obj/LoginData.o: ../../libthecore/include/stdafx.h
+.obj/LoginData.o: ../../libthecore/include/log.h
+.obj/LoginData.o: /usr/local/include/mysql/errmsg.h
+.obj/LoginData.o: /usr/local/include/mysql/mysqld_error.h
+.obj/LoginData.o: ../../libsql/Semaphore.h
+.obj/ClientManager.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/ClientManager.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/ClientManager.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/ClientManager.o: /usr/include/machine/_types.h /usr/include/x86/_types.h
+.obj/ClientManager.o: /usr/include/machine/_limits.h
+.obj/ClientManager.o: /usr/include/x86/_limits.h /usr/include/string.h
+.obj/ClientManager.o: /usr/include/strings.h /usr/include/xlocale/_strings.h
+.obj/ClientManager.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/ClientManager.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/ClientManager.o: /usr/include/errno.h /usr/include/stdlib.h
+.obj/ClientManager.o: /usr/include/unistd.h /usr/include/sys/types.h
+.obj/ClientManager.o: /usr/include/machine/endian.h /usr/include/x86/endian.h
+.obj/ClientManager.o: /usr/include/sys/_endian.h
+.obj/ClientManager.o: /usr/include/sys/_pthreadtypes.h
+.obj/ClientManager.o: /usr/include/sys/_stdint.h /usr/include/sys/select.h
+.obj/ClientManager.o: /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h
+.obj/ClientManager.o: /usr/include/sys/timespec.h
+.obj/ClientManager.o: /usr/include/sys/_timespec.h /usr/include/sys/unistd.h
+.obj/ClientManager.o: /usr/include/fcntl.h /usr/include/assert.h
+.obj/ClientManager.o: /usr/include/ctype.h /usr/include/_ctype.h
+.obj/ClientManager.o: /usr/include/runetype.h /usr/include/xlocale/_ctype.h
+.obj/ClientManager.o: /usr/include/limits.h /usr/include/sys/limits.h
+.obj/ClientManager.o: /usr/include/sys/syslimits.h /usr/include/dirent.h
+.obj/ClientManager.o: /usr/include/sys/dirent.h /usr/include/sys/time.h
+.obj/ClientManager.o: /usr/include/sys/_clock_id.h /usr/include/time.h
+.obj/ClientManager.o: /usr/include/xlocale/_time.h /usr/include/sys/stat.h
+.obj/ClientManager.o: /usr/include/netinet/in.h
+.obj/ClientManager.o: /usr/include/sys/_sockaddr_storage.h
+.obj/ClientManager.o: /usr/include/netinet6/in6.h /usr/include/arpa/inet.h
+.obj/ClientManager.o: /usr/include/netdb.h /usr/include/sys/socket.h
+.obj/ClientManager.o: /usr/include/sys/_iovec.h /usr/include/machine/_align.h
+.obj/ClientManager.o: /usr/include/x86/_align.h /usr/include/sys/signal.h
+.obj/ClientManager.o: /usr/include/machine/signal.h /usr/include/x86/signal.h
+.obj/ClientManager.o: /usr/include/sys/wait.h /usr/include/pthread.h
+.obj/ClientManager.o: /usr/include/sched.h /usr/include/sys/sched.h
+.obj/ClientManager.o: /usr/include/sys/cpuset.h /usr/include/sys/_cpuset.h
+.obj/ClientManager.o: /usr/include/sys/_bitset.h /usr/include/sys/bitset.h
+.obj/ClientManager.o: /usr/include/semaphore.h /usr/include/sys/_umtx.h
+.obj/ClientManager.o: /usr/include/sys/event.h /usr/include/sys/queue.h
+.obj/ClientManager.o: ../../libthecore/include/typedef.h
+.obj/ClientManager.o: ../../libthecore/include/heart.h
+.obj/ClientManager.o: ../../libthecore/include/fdwatch.h
+.obj/ClientManager.o: ../../libthecore/include/socket.h
+.obj/ClientManager.o: ../../libthecore/include/kstbl.h
+.obj/ClientManager.o: ../../libthecore/include/hangul.h
+.obj/ClientManager.o: ../../libthecore/include/buffer.h
+.obj/ClientManager.o: ../../libthecore/include/signal.h
+.obj/ClientManager.o: ../../libthecore/include/log.h
+.obj/ClientManager.o: ../../libthecore/include/main.h
+.obj/ClientManager.o: ../../libthecore/include/utils.h
+.obj/ClientManager.o: ../../libthecore/include/crypt.h
+.obj/ClientManager.o: ../../libthecore/include/memcpy.h ../../common/length.h
+.obj/ClientManager.o: ../../common/item_length.h ../../common/tables.h
+.obj/ClientManager.o: ../../common/length.h ../../common/singleton.h
+.obj/ClientManager.o: ../../common/utils.h ../../common/stl.h
+.obj/ClientManager.o: ../../common/service.h ../../common/billing.h
+.obj/ClientManager.o: ../../common/building.h ../../common/VnumHelper.h
+.obj/ClientManager.o: ../../libgame/include/grid.h ClientManager.h
+.obj/ClientManager.o: ../../common/auction_table.h ../../common/tables.h
+.obj/ClientManager.o: Peer.h PeerBase.h NetBase.h DBManager.h
+.obj/ClientManager.o: /usr/local/include/mysql/mysql.h
+.obj/ClientManager.o: /usr/local/include/mysql/mysql_version.h
+.obj/ClientManager.o: /usr/local/include/mysql/mysql_com.h
+.obj/ClientManager.o: /usr/local/include/mysql/mysql_time.h
+.obj/ClientManager.o: /usr/local/include/mysql/my_list.h
+.obj/ClientManager.o: /usr/local/include/mysql/typelib.h
+.obj/ClientManager.o: /usr/local/include/mysql/my_alloc.h
+.obj/ClientManager.o: ../../libsql/AsyncSQL.h
+.obj/ClientManager.o: ../../libthecore/include/stdafx.h
+.obj/ClientManager.o: ../../libthecore/include/log.h
+.obj/ClientManager.o: /usr/local/include/mysql/errmsg.h
+.obj/ClientManager.o: /usr/local/include/mysql/mysqld_error.h
+.obj/ClientManager.o: ../../libsql/Semaphore.h LoginData.h Main.h Config.h
+.obj/ClientManager.o: QID.h GuildManager.h ../../libsql/libsql.h
+.obj/ClientManager.o: ../../libsql/AsyncSQL.h ../../libpoly/Poly.h
+.obj/ClientManager.o: ../../libpoly/SymTable.h PrivManager.h MoneyLog.h
+.obj/ClientManager.o: ItemAwardManager.h Marriage.h Monarch.h BlockCountry.h
+.obj/ClientManager.o: ItemIDRangeManager.h Cache.h ../../common/cache.h
+.obj/ClientManagerPlayer.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/ClientManagerPlayer.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/_null.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/_types.h
+.obj/ClientManagerPlayer.o: /usr/include/machine/_types.h
+.obj/ClientManagerPlayer.o: /usr/include/x86/_types.h
+.obj/ClientManagerPlayer.o: /usr/include/machine/_limits.h
+.obj/ClientManagerPlayer.o: /usr/include/x86/_limits.h /usr/include/string.h
+.obj/ClientManagerPlayer.o: /usr/include/strings.h
+.obj/ClientManagerPlayer.o: /usr/include/xlocale/_strings.h
+.obj/ClientManagerPlayer.o: /usr/include/xlocale/_string.h
+.obj/ClientManagerPlayer.o: /usr/include/stdarg.h /usr/include/x86/stdarg.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/_stdarg.h /usr/include/errno.h
+.obj/ClientManagerPlayer.o: /usr/include/stdlib.h /usr/include/unistd.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/types.h
+.obj/ClientManagerPlayer.o: /usr/include/machine/endian.h
+.obj/ClientManagerPlayer.o: /usr/include/x86/endian.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/_endian.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/_pthreadtypes.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/_stdint.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/select.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/_sigset.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/_timeval.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/timespec.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/_timespec.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/ClientManagerPlayer.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/ClientManagerPlayer.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/ClientManagerPlayer.o: /usr/include/xlocale/_ctype.h
+.obj/ClientManagerPlayer.o: /usr/include/limits.h /usr/include/sys/limits.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/syslimits.h
+.obj/ClientManagerPlayer.o: /usr/include/dirent.h /usr/include/sys/dirent.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/time.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/_clock_id.h /usr/include/time.h
+.obj/ClientManagerPlayer.o: /usr/include/xlocale/_time.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/_sockaddr_storage.h
+.obj/ClientManagerPlayer.o: /usr/include/netinet6/in6.h
+.obj/ClientManagerPlayer.o: /usr/include/arpa/inet.h /usr/include/netdb.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/socket.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/_iovec.h
+.obj/ClientManagerPlayer.o: /usr/include/machine/_align.h
+.obj/ClientManagerPlayer.o: /usr/include/x86/_align.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/signal.h
+.obj/ClientManagerPlayer.o: /usr/include/machine/signal.h
+.obj/ClientManagerPlayer.o: /usr/include/x86/signal.h /usr/include/sys/wait.h
+.obj/ClientManagerPlayer.o: /usr/include/pthread.h /usr/include/sched.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/sched.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/cpuset.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/_cpuset.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/_bitset.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/bitset.h
+.obj/ClientManagerPlayer.o: /usr/include/semaphore.h /usr/include/sys/_umtx.h
+.obj/ClientManagerPlayer.o: /usr/include/sys/event.h /usr/include/sys/queue.h
+.obj/ClientManagerPlayer.o: ../../libthecore/include/typedef.h
+.obj/ClientManagerPlayer.o: ../../libthecore/include/heart.h
+.obj/ClientManagerPlayer.o: ../../libthecore/include/fdwatch.h
+.obj/ClientManagerPlayer.o: ../../libthecore/include/socket.h
+.obj/ClientManagerPlayer.o: ../../libthecore/include/kstbl.h
+.obj/ClientManagerPlayer.o: ../../libthecore/include/hangul.h
+.obj/ClientManagerPlayer.o: ../../libthecore/include/buffer.h
+.obj/ClientManagerPlayer.o: ../../libthecore/include/signal.h
+.obj/ClientManagerPlayer.o: ../../libthecore/include/log.h
+.obj/ClientManagerPlayer.o: ../../libthecore/include/main.h
+.obj/ClientManagerPlayer.o: ../../libthecore/include/utils.h
+.obj/ClientManagerPlayer.o: ../../libthecore/include/crypt.h
+.obj/ClientManagerPlayer.o: ../../libthecore/include/memcpy.h
+.obj/ClientManagerPlayer.o: ../../common/length.h ../../common/item_length.h
+.obj/ClientManagerPlayer.o: ../../common/tables.h ../../common/length.h
+.obj/ClientManagerPlayer.o: ../../common/singleton.h ../../common/utils.h
+.obj/ClientManagerPlayer.o: ../../common/stl.h ../../common/service.h
+.obj/ClientManagerPlayer.o: ClientManager.h ../../common/building.h
+.obj/ClientManagerPlayer.o: ../../common/auction_table.h
+.obj/ClientManagerPlayer.o: ../../common/tables.h Peer.h PeerBase.h NetBase.h
+.obj/ClientManagerPlayer.o: DBManager.h /usr/local/include/mysql/mysql.h
+.obj/ClientManagerPlayer.o: /usr/local/include/mysql/mysql_version.h
+.obj/ClientManagerPlayer.o: /usr/local/include/mysql/mysql_com.h
+.obj/ClientManagerPlayer.o: /usr/local/include/mysql/mysql_time.h
+.obj/ClientManagerPlayer.o: /usr/local/include/mysql/my_list.h
+.obj/ClientManagerPlayer.o: /usr/local/include/mysql/typelib.h
+.obj/ClientManagerPlayer.o: /usr/local/include/mysql/my_alloc.h
+.obj/ClientManagerPlayer.o: ../../libsql/AsyncSQL.h
+.obj/ClientManagerPlayer.o: ../../libthecore/include/stdafx.h
+.obj/ClientManagerPlayer.o: ../../libthecore/include/log.h
+.obj/ClientManagerPlayer.o: /usr/local/include/mysql/errmsg.h
+.obj/ClientManagerPlayer.o: /usr/local/include/mysql/mysqld_error.h
+.obj/ClientManagerPlayer.o: ../../libsql/Semaphore.h LoginData.h Main.h QID.h
+.obj/ClientManagerPlayer.o: ItemAwardManager.h HB.h Cache.h
+.obj/ClientManagerPlayer.o: ../../common/cache.h
+.obj/ClientManagerLogin.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/ClientManagerLogin.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/ClientManagerLogin.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/ClientManagerLogin.o: /usr/include/machine/_types.h
+.obj/ClientManagerLogin.o: /usr/include/x86/_types.h
+.obj/ClientManagerLogin.o: /usr/include/machine/_limits.h
+.obj/ClientManagerLogin.o: /usr/include/x86/_limits.h /usr/include/string.h
+.obj/ClientManagerLogin.o: /usr/include/strings.h
+.obj/ClientManagerLogin.o: /usr/include/xlocale/_strings.h
+.obj/ClientManagerLogin.o: /usr/include/xlocale/_string.h
+.obj/ClientManagerLogin.o: /usr/include/stdarg.h /usr/include/x86/stdarg.h
+.obj/ClientManagerLogin.o: /usr/include/sys/_stdarg.h /usr/include/errno.h
+.obj/ClientManagerLogin.o: /usr/include/stdlib.h /usr/include/unistd.h
+.obj/ClientManagerLogin.o: /usr/include/sys/types.h
+.obj/ClientManagerLogin.o: /usr/include/machine/endian.h
+.obj/ClientManagerLogin.o: /usr/include/x86/endian.h
+.obj/ClientManagerLogin.o: /usr/include/sys/_endian.h
+.obj/ClientManagerLogin.o: /usr/include/sys/_pthreadtypes.h
+.obj/ClientManagerLogin.o: /usr/include/sys/_stdint.h
+.obj/ClientManagerLogin.o: /usr/include/sys/select.h
+.obj/ClientManagerLogin.o: /usr/include/sys/_sigset.h
+.obj/ClientManagerLogin.o: /usr/include/sys/_timeval.h
+.obj/ClientManagerLogin.o: /usr/include/sys/timespec.h
+.obj/ClientManagerLogin.o: /usr/include/sys/_timespec.h
+.obj/ClientManagerLogin.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/ClientManagerLogin.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/ClientManagerLogin.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/ClientManagerLogin.o: /usr/include/xlocale/_ctype.h
+.obj/ClientManagerLogin.o: /usr/include/limits.h /usr/include/sys/limits.h
+.obj/ClientManagerLogin.o: /usr/include/sys/syslimits.h /usr/include/dirent.h
+.obj/ClientManagerLogin.o: /usr/include/sys/dirent.h /usr/include/sys/time.h
+.obj/ClientManagerLogin.o: /usr/include/sys/_clock_id.h /usr/include/time.h
+.obj/ClientManagerLogin.o: /usr/include/xlocale/_time.h
+.obj/ClientManagerLogin.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/ClientManagerLogin.o: /usr/include/sys/_sockaddr_storage.h
+.obj/ClientManagerLogin.o: /usr/include/netinet6/in6.h
+.obj/ClientManagerLogin.o: /usr/include/arpa/inet.h /usr/include/netdb.h
+.obj/ClientManagerLogin.o: /usr/include/sys/socket.h
+.obj/ClientManagerLogin.o: /usr/include/sys/_iovec.h
+.obj/ClientManagerLogin.o: /usr/include/machine/_align.h
+.obj/ClientManagerLogin.o: /usr/include/x86/_align.h
+.obj/ClientManagerLogin.o: /usr/include/sys/signal.h
+.obj/ClientManagerLogin.o: /usr/include/machine/signal.h
+.obj/ClientManagerLogin.o: /usr/include/x86/signal.h /usr/include/sys/wait.h
+.obj/ClientManagerLogin.o: /usr/include/pthread.h /usr/include/sched.h
+.obj/ClientManagerLogin.o: /usr/include/sys/sched.h /usr/include/sys/cpuset.h
+.obj/ClientManagerLogin.o: /usr/include/sys/_cpuset.h
+.obj/ClientManagerLogin.o: /usr/include/sys/_bitset.h
+.obj/ClientManagerLogin.o: /usr/include/sys/bitset.h /usr/include/semaphore.h
+.obj/ClientManagerLogin.o: /usr/include/sys/_umtx.h /usr/include/sys/event.h
+.obj/ClientManagerLogin.o: /usr/include/sys/queue.h
+.obj/ClientManagerLogin.o: ../../libthecore/include/typedef.h
+.obj/ClientManagerLogin.o: ../../libthecore/include/heart.h
+.obj/ClientManagerLogin.o: ../../libthecore/include/fdwatch.h
+.obj/ClientManagerLogin.o: ../../libthecore/include/socket.h
+.obj/ClientManagerLogin.o: ../../libthecore/include/kstbl.h
+.obj/ClientManagerLogin.o: ../../libthecore/include/hangul.h
+.obj/ClientManagerLogin.o: ../../libthecore/include/buffer.h
+.obj/ClientManagerLogin.o: ../../libthecore/include/signal.h
+.obj/ClientManagerLogin.o: ../../libthecore/include/log.h
+.obj/ClientManagerLogin.o: ../../libthecore/include/main.h
+.obj/ClientManagerLogin.o: ../../libthecore/include/utils.h
+.obj/ClientManagerLogin.o: ../../libthecore/include/crypt.h
+.obj/ClientManagerLogin.o: ../../libthecore/include/memcpy.h
+.obj/ClientManagerLogin.o: ../../common/length.h ../../common/item_length.h
+.obj/ClientManagerLogin.o: ../../common/tables.h ../../common/length.h
+.obj/ClientManagerLogin.o: ../../common/singleton.h ../../common/utils.h
+.obj/ClientManagerLogin.o: ../../common/stl.h ../../common/service.h
+.obj/ClientManagerLogin.o: ClientManager.h ../../common/building.h
+.obj/ClientManagerLogin.o: ../../common/auction_table.h ../../common/tables.h
+.obj/ClientManagerLogin.o: Peer.h PeerBase.h NetBase.h DBManager.h
+.obj/ClientManagerLogin.o: /usr/local/include/mysql/mysql.h
+.obj/ClientManagerLogin.o: /usr/local/include/mysql/mysql_version.h
+.obj/ClientManagerLogin.o: /usr/local/include/mysql/mysql_com.h
+.obj/ClientManagerLogin.o: /usr/local/include/mysql/mysql_time.h
+.obj/ClientManagerLogin.o: /usr/local/include/mysql/my_list.h
+.obj/ClientManagerLogin.o: /usr/local/include/mysql/typelib.h
+.obj/ClientManagerLogin.o: /usr/local/include/mysql/my_alloc.h
+.obj/ClientManagerLogin.o: ../../libsql/AsyncSQL.h
+.obj/ClientManagerLogin.o: ../../libthecore/include/stdafx.h
+.obj/ClientManagerLogin.o: ../../libthecore/include/log.h
+.obj/ClientManagerLogin.o: /usr/local/include/mysql/errmsg.h
+.obj/ClientManagerLogin.o: /usr/local/include/mysql/mysqld_error.h
+.obj/ClientManagerLogin.o: ../../libsql/Semaphore.h LoginData.h Main.h
+.obj/ClientManagerLogin.o: Config.h QID.h Cache.h ../../common/cache.h
+.obj/ClientManagerBoot.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/ClientManagerBoot.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/ClientManagerBoot.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/ClientManagerBoot.o: /usr/include/machine/_types.h
+.obj/ClientManagerBoot.o: /usr/include/x86/_types.h
+.obj/ClientManagerBoot.o: /usr/include/machine/_limits.h
+.obj/ClientManagerBoot.o: /usr/include/x86/_limits.h /usr/include/string.h
+.obj/ClientManagerBoot.o: /usr/include/strings.h
+.obj/ClientManagerBoot.o: /usr/include/xlocale/_strings.h
+.obj/ClientManagerBoot.o: /usr/include/xlocale/_string.h
+.obj/ClientManagerBoot.o: /usr/include/stdarg.h /usr/include/x86/stdarg.h
+.obj/ClientManagerBoot.o: /usr/include/sys/_stdarg.h /usr/include/errno.h
+.obj/ClientManagerBoot.o: /usr/include/stdlib.h /usr/include/unistd.h
+.obj/ClientManagerBoot.o: /usr/include/sys/types.h
+.obj/ClientManagerBoot.o: /usr/include/machine/endian.h
+.obj/ClientManagerBoot.o: /usr/include/x86/endian.h
+.obj/ClientManagerBoot.o: /usr/include/sys/_endian.h
+.obj/ClientManagerBoot.o: /usr/include/sys/_pthreadtypes.h
+.obj/ClientManagerBoot.o: /usr/include/sys/_stdint.h
+.obj/ClientManagerBoot.o: /usr/include/sys/select.h
+.obj/ClientManagerBoot.o: /usr/include/sys/_sigset.h
+.obj/ClientManagerBoot.o: /usr/include/sys/_timeval.h
+.obj/ClientManagerBoot.o: /usr/include/sys/timespec.h
+.obj/ClientManagerBoot.o: /usr/include/sys/_timespec.h
+.obj/ClientManagerBoot.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/ClientManagerBoot.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/ClientManagerBoot.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/ClientManagerBoot.o: /usr/include/xlocale/_ctype.h /usr/include/limits.h
+.obj/ClientManagerBoot.o: /usr/include/sys/limits.h
+.obj/ClientManagerBoot.o: /usr/include/sys/syslimits.h /usr/include/dirent.h
+.obj/ClientManagerBoot.o: /usr/include/sys/dirent.h /usr/include/sys/time.h
+.obj/ClientManagerBoot.o: /usr/include/sys/_clock_id.h /usr/include/time.h
+.obj/ClientManagerBoot.o: /usr/include/xlocale/_time.h
+.obj/ClientManagerBoot.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/ClientManagerBoot.o: /usr/include/sys/_sockaddr_storage.h
+.obj/ClientManagerBoot.o: /usr/include/netinet6/in6.h
+.obj/ClientManagerBoot.o: /usr/include/arpa/inet.h /usr/include/netdb.h
+.obj/ClientManagerBoot.o: /usr/include/sys/socket.h /usr/include/sys/_iovec.h
+.obj/ClientManagerBoot.o: /usr/include/machine/_align.h
+.obj/ClientManagerBoot.o: /usr/include/x86/_align.h /usr/include/sys/signal.h
+.obj/ClientManagerBoot.o: /usr/include/machine/signal.h
+.obj/ClientManagerBoot.o: /usr/include/x86/signal.h /usr/include/sys/wait.h
+.obj/ClientManagerBoot.o: /usr/include/pthread.h /usr/include/sched.h
+.obj/ClientManagerBoot.o: /usr/include/sys/sched.h /usr/include/sys/cpuset.h
+.obj/ClientManagerBoot.o: /usr/include/sys/_cpuset.h
+.obj/ClientManagerBoot.o: /usr/include/sys/_bitset.h
+.obj/ClientManagerBoot.o: /usr/include/sys/bitset.h /usr/include/semaphore.h
+.obj/ClientManagerBoot.o: /usr/include/sys/_umtx.h /usr/include/sys/event.h
+.obj/ClientManagerBoot.o: /usr/include/sys/queue.h
+.obj/ClientManagerBoot.o: ../../libthecore/include/typedef.h
+.obj/ClientManagerBoot.o: ../../libthecore/include/heart.h
+.obj/ClientManagerBoot.o: ../../libthecore/include/fdwatch.h
+.obj/ClientManagerBoot.o: ../../libthecore/include/socket.h
+.obj/ClientManagerBoot.o: ../../libthecore/include/kstbl.h
+.obj/ClientManagerBoot.o: ../../libthecore/include/hangul.h
+.obj/ClientManagerBoot.o: ../../libthecore/include/buffer.h
+.obj/ClientManagerBoot.o: ../../libthecore/include/signal.h
+.obj/ClientManagerBoot.o: ../../libthecore/include/log.h
+.obj/ClientManagerBoot.o: ../../libthecore/include/main.h
+.obj/ClientManagerBoot.o: ../../libthecore/include/utils.h
+.obj/ClientManagerBoot.o: ../../libthecore/include/crypt.h
+.obj/ClientManagerBoot.o: ../../libthecore/include/memcpy.h
+.obj/ClientManagerBoot.o: ../../common/length.h ../../common/item_length.h
+.obj/ClientManagerBoot.o: ../../common/tables.h ../../common/length.h
+.obj/ClientManagerBoot.o: ../../common/singleton.h ../../common/utils.h
+.obj/ClientManagerBoot.o: ../../common/stl.h ../../common/service.h
+.obj/ClientManagerBoot.o: ClientManager.h ../../common/building.h
+.obj/ClientManagerBoot.o: ../../common/auction_table.h ../../common/tables.h
+.obj/ClientManagerBoot.o: Peer.h PeerBase.h NetBase.h DBManager.h
+.obj/ClientManagerBoot.o: /usr/local/include/mysql/mysql.h
+.obj/ClientManagerBoot.o: /usr/local/include/mysql/mysql_version.h
+.obj/ClientManagerBoot.o: /usr/local/include/mysql/mysql_com.h
+.obj/ClientManagerBoot.o: /usr/local/include/mysql/mysql_time.h
+.obj/ClientManagerBoot.o: /usr/local/include/mysql/my_list.h
+.obj/ClientManagerBoot.o: /usr/local/include/mysql/typelib.h
+.obj/ClientManagerBoot.o: /usr/local/include/mysql/my_alloc.h
+.obj/ClientManagerBoot.o: ../../libsql/AsyncSQL.h
+.obj/ClientManagerBoot.o: ../../libthecore/include/stdafx.h
+.obj/ClientManagerBoot.o: ../../libthecore/include/log.h
+.obj/ClientManagerBoot.o: /usr/local/include/mysql/errmsg.h
+.obj/ClientManagerBoot.o: /usr/local/include/mysql/mysqld_error.h
+.obj/ClientManagerBoot.o: ../../libsql/Semaphore.h LoginData.h Main.h
+.obj/ClientManagerBoot.o: Monarch.h CsvReader.h ProtoReader.h
+.obj/ClientManagerParty.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/ClientManagerParty.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/ClientManagerParty.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/ClientManagerParty.o: /usr/include/machine/_types.h
+.obj/ClientManagerParty.o: /usr/include/x86/_types.h
+.obj/ClientManagerParty.o: /usr/include/machine/_limits.h
+.obj/ClientManagerParty.o: /usr/include/x86/_limits.h /usr/include/string.h
+.obj/ClientManagerParty.o: /usr/include/strings.h
+.obj/ClientManagerParty.o: /usr/include/xlocale/_strings.h
+.obj/ClientManagerParty.o: /usr/include/xlocale/_string.h
+.obj/ClientManagerParty.o: /usr/include/stdarg.h /usr/include/x86/stdarg.h
+.obj/ClientManagerParty.o: /usr/include/sys/_stdarg.h /usr/include/errno.h
+.obj/ClientManagerParty.o: /usr/include/stdlib.h /usr/include/unistd.h
+.obj/ClientManagerParty.o: /usr/include/sys/types.h
+.obj/ClientManagerParty.o: /usr/include/machine/endian.h
+.obj/ClientManagerParty.o: /usr/include/x86/endian.h
+.obj/ClientManagerParty.o: /usr/include/sys/_endian.h
+.obj/ClientManagerParty.o: /usr/include/sys/_pthreadtypes.h
+.obj/ClientManagerParty.o: /usr/include/sys/_stdint.h
+.obj/ClientManagerParty.o: /usr/include/sys/select.h
+.obj/ClientManagerParty.o: /usr/include/sys/_sigset.h
+.obj/ClientManagerParty.o: /usr/include/sys/_timeval.h
+.obj/ClientManagerParty.o: /usr/include/sys/timespec.h
+.obj/ClientManagerParty.o: /usr/include/sys/_timespec.h
+.obj/ClientManagerParty.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/ClientManagerParty.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/ClientManagerParty.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/ClientManagerParty.o: /usr/include/xlocale/_ctype.h
+.obj/ClientManagerParty.o: /usr/include/limits.h /usr/include/sys/limits.h
+.obj/ClientManagerParty.o: /usr/include/sys/syslimits.h /usr/include/dirent.h
+.obj/ClientManagerParty.o: /usr/include/sys/dirent.h /usr/include/sys/time.h
+.obj/ClientManagerParty.o: /usr/include/sys/_clock_id.h /usr/include/time.h
+.obj/ClientManagerParty.o: /usr/include/xlocale/_time.h
+.obj/ClientManagerParty.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/ClientManagerParty.o: /usr/include/sys/_sockaddr_storage.h
+.obj/ClientManagerParty.o: /usr/include/netinet6/in6.h
+.obj/ClientManagerParty.o: /usr/include/arpa/inet.h /usr/include/netdb.h
+.obj/ClientManagerParty.o: /usr/include/sys/socket.h
+.obj/ClientManagerParty.o: /usr/include/sys/_iovec.h
+.obj/ClientManagerParty.o: /usr/include/machine/_align.h
+.obj/ClientManagerParty.o: /usr/include/x86/_align.h
+.obj/ClientManagerParty.o: /usr/include/sys/signal.h
+.obj/ClientManagerParty.o: /usr/include/machine/signal.h
+.obj/ClientManagerParty.o: /usr/include/x86/signal.h /usr/include/sys/wait.h
+.obj/ClientManagerParty.o: /usr/include/pthread.h /usr/include/sched.h
+.obj/ClientManagerParty.o: /usr/include/sys/sched.h /usr/include/sys/cpuset.h
+.obj/ClientManagerParty.o: /usr/include/sys/_cpuset.h
+.obj/ClientManagerParty.o: /usr/include/sys/_bitset.h
+.obj/ClientManagerParty.o: /usr/include/sys/bitset.h /usr/include/semaphore.h
+.obj/ClientManagerParty.o: /usr/include/sys/_umtx.h /usr/include/sys/event.h
+.obj/ClientManagerParty.o: /usr/include/sys/queue.h
+.obj/ClientManagerParty.o: ../../libthecore/include/typedef.h
+.obj/ClientManagerParty.o: ../../libthecore/include/heart.h
+.obj/ClientManagerParty.o: ../../libthecore/include/fdwatch.h
+.obj/ClientManagerParty.o: ../../libthecore/include/socket.h
+.obj/ClientManagerParty.o: ../../libthecore/include/kstbl.h
+.obj/ClientManagerParty.o: ../../libthecore/include/hangul.h
+.obj/ClientManagerParty.o: ../../libthecore/include/buffer.h
+.obj/ClientManagerParty.o: ../../libthecore/include/signal.h
+.obj/ClientManagerParty.o: ../../libthecore/include/log.h
+.obj/ClientManagerParty.o: ../../libthecore/include/main.h
+.obj/ClientManagerParty.o: ../../libthecore/include/utils.h
+.obj/ClientManagerParty.o: ../../libthecore/include/crypt.h
+.obj/ClientManagerParty.o: ../../libthecore/include/memcpy.h
+.obj/ClientManagerParty.o: ../../common/length.h ../../common/item_length.h
+.obj/ClientManagerParty.o: ../../common/tables.h ../../common/length.h
+.obj/ClientManagerParty.o: ../../common/singleton.h ../../common/utils.h
+.obj/ClientManagerParty.o: ../../common/stl.h ../../common/service.h
+.obj/ClientManagerParty.o: ClientManager.h ../../common/building.h
+.obj/ClientManagerParty.o: ../../common/auction_table.h ../../common/tables.h
+.obj/ClientManagerParty.o: Peer.h PeerBase.h NetBase.h DBManager.h
+.obj/ClientManagerParty.o: /usr/local/include/mysql/mysql.h
+.obj/ClientManagerParty.o: /usr/local/include/mysql/mysql_version.h
+.obj/ClientManagerParty.o: /usr/local/include/mysql/mysql_com.h
+.obj/ClientManagerParty.o: /usr/local/include/mysql/mysql_time.h
+.obj/ClientManagerParty.o: /usr/local/include/mysql/my_list.h
+.obj/ClientManagerParty.o: /usr/local/include/mysql/typelib.h
+.obj/ClientManagerParty.o: /usr/local/include/mysql/my_alloc.h
+.obj/ClientManagerParty.o: ../../libsql/AsyncSQL.h
+.obj/ClientManagerParty.o: ../../libthecore/include/stdafx.h
+.obj/ClientManagerParty.o: ../../libthecore/include/log.h
+.obj/ClientManagerParty.o: /usr/local/include/mysql/errmsg.h
+.obj/ClientManagerParty.o: /usr/local/include/mysql/mysqld_error.h
+.obj/ClientManagerParty.o: ../../libsql/Semaphore.h LoginData.h Config.h
+.obj/ClientManagerParty.o: QID.h
+.obj/ClientManagerGuild.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/ClientManagerGuild.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/ClientManagerGuild.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/ClientManagerGuild.o: /usr/include/machine/_types.h
+.obj/ClientManagerGuild.o: /usr/include/x86/_types.h
+.obj/ClientManagerGuild.o: /usr/include/machine/_limits.h
+.obj/ClientManagerGuild.o: /usr/include/x86/_limits.h /usr/include/string.h
+.obj/ClientManagerGuild.o: /usr/include/strings.h
+.obj/ClientManagerGuild.o: /usr/include/xlocale/_strings.h
+.obj/ClientManagerGuild.o: /usr/include/xlocale/_string.h
+.obj/ClientManagerGuild.o: /usr/include/stdarg.h /usr/include/x86/stdarg.h
+.obj/ClientManagerGuild.o: /usr/include/sys/_stdarg.h /usr/include/errno.h
+.obj/ClientManagerGuild.o: /usr/include/stdlib.h /usr/include/unistd.h
+.obj/ClientManagerGuild.o: /usr/include/sys/types.h
+.obj/ClientManagerGuild.o: /usr/include/machine/endian.h
+.obj/ClientManagerGuild.o: /usr/include/x86/endian.h
+.obj/ClientManagerGuild.o: /usr/include/sys/_endian.h
+.obj/ClientManagerGuild.o: /usr/include/sys/_pthreadtypes.h
+.obj/ClientManagerGuild.o: /usr/include/sys/_stdint.h
+.obj/ClientManagerGuild.o: /usr/include/sys/select.h
+.obj/ClientManagerGuild.o: /usr/include/sys/_sigset.h
+.obj/ClientManagerGuild.o: /usr/include/sys/_timeval.h
+.obj/ClientManagerGuild.o: /usr/include/sys/timespec.h
+.obj/ClientManagerGuild.o: /usr/include/sys/_timespec.h
+.obj/ClientManagerGuild.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/ClientManagerGuild.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/ClientManagerGuild.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/ClientManagerGuild.o: /usr/include/xlocale/_ctype.h
+.obj/ClientManagerGuild.o: /usr/include/limits.h /usr/include/sys/limits.h
+.obj/ClientManagerGuild.o: /usr/include/sys/syslimits.h /usr/include/dirent.h
+.obj/ClientManagerGuild.o: /usr/include/sys/dirent.h /usr/include/sys/time.h
+.obj/ClientManagerGuild.o: /usr/include/sys/_clock_id.h /usr/include/time.h
+.obj/ClientManagerGuild.o: /usr/include/xlocale/_time.h
+.obj/ClientManagerGuild.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/ClientManagerGuild.o: /usr/include/sys/_sockaddr_storage.h
+.obj/ClientManagerGuild.o: /usr/include/netinet6/in6.h
+.obj/ClientManagerGuild.o: /usr/include/arpa/inet.h /usr/include/netdb.h
+.obj/ClientManagerGuild.o: /usr/include/sys/socket.h
+.obj/ClientManagerGuild.o: /usr/include/sys/_iovec.h
+.obj/ClientManagerGuild.o: /usr/include/machine/_align.h
+.obj/ClientManagerGuild.o: /usr/include/x86/_align.h
+.obj/ClientManagerGuild.o: /usr/include/sys/signal.h
+.obj/ClientManagerGuild.o: /usr/include/machine/signal.h
+.obj/ClientManagerGuild.o: /usr/include/x86/signal.h /usr/include/sys/wait.h
+.obj/ClientManagerGuild.o: /usr/include/pthread.h /usr/include/sched.h
+.obj/ClientManagerGuild.o: /usr/include/sys/sched.h /usr/include/sys/cpuset.h
+.obj/ClientManagerGuild.o: /usr/include/sys/_cpuset.h
+.obj/ClientManagerGuild.o: /usr/include/sys/_bitset.h
+.obj/ClientManagerGuild.o: /usr/include/sys/bitset.h /usr/include/semaphore.h
+.obj/ClientManagerGuild.o: /usr/include/sys/_umtx.h /usr/include/sys/event.h
+.obj/ClientManagerGuild.o: /usr/include/sys/queue.h
+.obj/ClientManagerGuild.o: ../../libthecore/include/typedef.h
+.obj/ClientManagerGuild.o: ../../libthecore/include/heart.h
+.obj/ClientManagerGuild.o: ../../libthecore/include/fdwatch.h
+.obj/ClientManagerGuild.o: ../../libthecore/include/socket.h
+.obj/ClientManagerGuild.o: ../../libthecore/include/kstbl.h
+.obj/ClientManagerGuild.o: ../../libthecore/include/hangul.h
+.obj/ClientManagerGuild.o: ../../libthecore/include/buffer.h
+.obj/ClientManagerGuild.o: ../../libthecore/include/signal.h
+.obj/ClientManagerGuild.o: ../../libthecore/include/log.h
+.obj/ClientManagerGuild.o: ../../libthecore/include/main.h
+.obj/ClientManagerGuild.o: ../../libthecore/include/utils.h
+.obj/ClientManagerGuild.o: ../../libthecore/include/crypt.h
+.obj/ClientManagerGuild.o: ../../libthecore/include/memcpy.h
+.obj/ClientManagerGuild.o: ../../common/length.h ../../common/item_length.h
+.obj/ClientManagerGuild.o: ../../common/tables.h ../../common/length.h
+.obj/ClientManagerGuild.o: ../../common/singleton.h ../../common/utils.h
+.obj/ClientManagerGuild.o: ../../common/stl.h ../../common/service.h
+.obj/ClientManagerGuild.o: ClientManager.h ../../common/building.h
+.obj/ClientManagerGuild.o: ../../common/auction_table.h ../../common/tables.h
+.obj/ClientManagerGuild.o: Peer.h PeerBase.h NetBase.h DBManager.h
+.obj/ClientManagerGuild.o: /usr/local/include/mysql/mysql.h
+.obj/ClientManagerGuild.o: /usr/local/include/mysql/mysql_version.h
+.obj/ClientManagerGuild.o: /usr/local/include/mysql/mysql_com.h
+.obj/ClientManagerGuild.o: /usr/local/include/mysql/mysql_time.h
+.obj/ClientManagerGuild.o: /usr/local/include/mysql/my_list.h
+.obj/ClientManagerGuild.o: /usr/local/include/mysql/typelib.h
+.obj/ClientManagerGuild.o: /usr/local/include/mysql/my_alloc.h
+.obj/ClientManagerGuild.o: ../../libsql/AsyncSQL.h
+.obj/ClientManagerGuild.o: ../../libthecore/include/stdafx.h
+.obj/ClientManagerGuild.o: ../../libthecore/include/log.h
+.obj/ClientManagerGuild.o: /usr/local/include/mysql/errmsg.h
+.obj/ClientManagerGuild.o: /usr/local/include/mysql/mysqld_error.h
+.obj/ClientManagerGuild.o: ../../libsql/Semaphore.h LoginData.h Main.h
+.obj/ClientManagerGuild.o: Config.h QID.h GuildManager.h
+.obj/ClientManagerGuild.o: ../../libsql/libsql.h ../../libsql/AsyncSQL.h
+.obj/ClientManagerGuild.o: ../../libpoly/Poly.h ../../libpoly/SymTable.h
+.obj/GuildManager.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/GuildManager.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/GuildManager.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/GuildManager.o: /usr/include/machine/_types.h /usr/include/x86/_types.h
+.obj/GuildManager.o: /usr/include/machine/_limits.h
+.obj/GuildManager.o: /usr/include/x86/_limits.h /usr/include/string.h
+.obj/GuildManager.o: /usr/include/strings.h /usr/include/xlocale/_strings.h
+.obj/GuildManager.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/GuildManager.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/GuildManager.o: /usr/include/errno.h /usr/include/stdlib.h
+.obj/GuildManager.o: /usr/include/unistd.h /usr/include/sys/types.h
+.obj/GuildManager.o: /usr/include/machine/endian.h /usr/include/x86/endian.h
+.obj/GuildManager.o: /usr/include/sys/_endian.h
+.obj/GuildManager.o: /usr/include/sys/_pthreadtypes.h
+.obj/GuildManager.o: /usr/include/sys/_stdint.h /usr/include/sys/select.h
+.obj/GuildManager.o: /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h
+.obj/GuildManager.o: /usr/include/sys/timespec.h /usr/include/sys/_timespec.h
+.obj/GuildManager.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/GuildManager.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/GuildManager.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/GuildManager.o: /usr/include/xlocale/_ctype.h /usr/include/limits.h
+.obj/GuildManager.o: /usr/include/sys/limits.h /usr/include/sys/syslimits.h
+.obj/GuildManager.o: /usr/include/dirent.h /usr/include/sys/dirent.h
+.obj/GuildManager.o: /usr/include/sys/time.h /usr/include/sys/_clock_id.h
+.obj/GuildManager.o: /usr/include/time.h /usr/include/xlocale/_time.h
+.obj/GuildManager.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/GuildManager.o: /usr/include/sys/_sockaddr_storage.h
+.obj/GuildManager.o: /usr/include/netinet6/in6.h /usr/include/arpa/inet.h
+.obj/GuildManager.o: /usr/include/netdb.h /usr/include/sys/socket.h
+.obj/GuildManager.o: /usr/include/sys/_iovec.h /usr/include/machine/_align.h
+.obj/GuildManager.o: /usr/include/x86/_align.h /usr/include/sys/signal.h
+.obj/GuildManager.o: /usr/include/machine/signal.h /usr/include/x86/signal.h
+.obj/GuildManager.o: /usr/include/sys/wait.h /usr/include/pthread.h
+.obj/GuildManager.o: /usr/include/sched.h /usr/include/sys/sched.h
+.obj/GuildManager.o: /usr/include/sys/cpuset.h /usr/include/sys/_cpuset.h
+.obj/GuildManager.o: /usr/include/sys/_bitset.h /usr/include/sys/bitset.h
+.obj/GuildManager.o: /usr/include/semaphore.h /usr/include/sys/_umtx.h
+.obj/GuildManager.o: /usr/include/sys/event.h /usr/include/sys/queue.h
+.obj/GuildManager.o: ../../libthecore/include/typedef.h
+.obj/GuildManager.o: ../../libthecore/include/heart.h
+.obj/GuildManager.o: ../../libthecore/include/fdwatch.h
+.obj/GuildManager.o: ../../libthecore/include/socket.h
+.obj/GuildManager.o: ../../libthecore/include/kstbl.h
+.obj/GuildManager.o: ../../libthecore/include/hangul.h
+.obj/GuildManager.o: ../../libthecore/include/buffer.h
+.obj/GuildManager.o: ../../libthecore/include/signal.h
+.obj/GuildManager.o: ../../libthecore/include/log.h
+.obj/GuildManager.o: ../../libthecore/include/main.h
+.obj/GuildManager.o: ../../libthecore/include/utils.h
+.obj/GuildManager.o: ../../libthecore/include/crypt.h
+.obj/GuildManager.o: ../../libthecore/include/memcpy.h ../../common/length.h
+.obj/GuildManager.o: ../../common/item_length.h ../../common/tables.h
+.obj/GuildManager.o: ../../common/length.h ../../common/singleton.h
+.obj/GuildManager.o: ../../common/utils.h ../../common/stl.h
+.obj/GuildManager.o: ../../common/service.h GuildManager.h Peer.h PeerBase.h
+.obj/GuildManager.o: NetBase.h ../../libsql/libsql.h ../../libsql/AsyncSQL.h
+.obj/GuildManager.o: ../../libpoly/Poly.h ../../libpoly/SymTable.h Main.h
+.obj/GuildManager.o: ClientManager.h ../../common/building.h
+.obj/GuildManager.o: ../../common/auction_table.h ../../common/tables.h
+.obj/GuildManager.o: DBManager.h /usr/local/include/mysql/mysql.h
+.obj/GuildManager.o: /usr/local/include/mysql/mysql_version.h
+.obj/GuildManager.o: /usr/local/include/mysql/mysql_com.h
+.obj/GuildManager.o: /usr/local/include/mysql/mysql_time.h
+.obj/GuildManager.o: /usr/local/include/mysql/my_list.h
+.obj/GuildManager.o: /usr/local/include/mysql/typelib.h
+.obj/GuildManager.o: /usr/local/include/mysql/my_alloc.h
+.obj/GuildManager.o: ../../libsql/AsyncSQL.h
+.obj/GuildManager.o: ../../libthecore/include/stdafx.h
+.obj/GuildManager.o: ../../libthecore/include/log.h
+.obj/GuildManager.o: /usr/local/include/mysql/errmsg.h
+.obj/GuildManager.o: /usr/local/include/mysql/mysqld_error.h
+.obj/GuildManager.o: ../../libsql/Semaphore.h LoginData.h QID.h Config.h
+.obj/GuildManager.o: /usr/include/math.h
+.obj/HB.o: stdafx.h ../../libthecore/include/stdafx.h /usr/include/stdio.h
+.obj/HB.o: /usr/include/sys/cdefs.h /usr/include/sys/_null.h
+.obj/HB.o: /usr/include/sys/_types.h /usr/include/machine/_types.h
+.obj/HB.o: /usr/include/x86/_types.h /usr/include/machine/_limits.h
+.obj/HB.o: /usr/include/x86/_limits.h /usr/include/string.h
+.obj/HB.o: /usr/include/strings.h /usr/include/xlocale/_strings.h
+.obj/HB.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/HB.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/HB.o: /usr/include/errno.h /usr/include/stdlib.h /usr/include/unistd.h
+.obj/HB.o: /usr/include/sys/types.h /usr/include/machine/endian.h
+.obj/HB.o: /usr/include/x86/endian.h /usr/include/sys/_endian.h
+.obj/HB.o: /usr/include/sys/_pthreadtypes.h /usr/include/sys/_stdint.h
+.obj/HB.o: /usr/include/sys/select.h /usr/include/sys/_sigset.h
+.obj/HB.o: /usr/include/sys/_timeval.h /usr/include/sys/timespec.h
+.obj/HB.o: /usr/include/sys/_timespec.h /usr/include/sys/unistd.h
+.obj/HB.o: /usr/include/fcntl.h /usr/include/assert.h /usr/include/ctype.h
+.obj/HB.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/HB.o: /usr/include/xlocale/_ctype.h /usr/include/limits.h
+.obj/HB.o: /usr/include/sys/limits.h /usr/include/sys/syslimits.h
+.obj/HB.o: /usr/include/dirent.h /usr/include/sys/dirent.h
+.obj/HB.o: /usr/include/sys/time.h /usr/include/sys/_clock_id.h
+.obj/HB.o: /usr/include/time.h /usr/include/xlocale/_time.h
+.obj/HB.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/HB.o: /usr/include/sys/_sockaddr_storage.h /usr/include/netinet6/in6.h
+.obj/HB.o: /usr/include/arpa/inet.h /usr/include/netdb.h
+.obj/HB.o: /usr/include/sys/socket.h /usr/include/sys/_iovec.h
+.obj/HB.o: /usr/include/machine/_align.h /usr/include/x86/_align.h
+.obj/HB.o: /usr/include/sys/signal.h /usr/include/machine/signal.h
+.obj/HB.o: /usr/include/x86/signal.h /usr/include/sys/wait.h
+.obj/HB.o: /usr/include/pthread.h /usr/include/sched.h
+.obj/HB.o: /usr/include/sys/sched.h /usr/include/sys/cpuset.h
+.obj/HB.o: /usr/include/sys/_cpuset.h /usr/include/sys/_bitset.h
+.obj/HB.o: /usr/include/sys/bitset.h /usr/include/semaphore.h
+.obj/HB.o: /usr/include/sys/_umtx.h /usr/include/sys/event.h
+.obj/HB.o: /usr/include/sys/queue.h ../../libthecore/include/typedef.h
+.obj/HB.o: ../../libthecore/include/heart.h
+.obj/HB.o: ../../libthecore/include/fdwatch.h
+.obj/HB.o: ../../libthecore/include/socket.h ../../libthecore/include/kstbl.h
+.obj/HB.o: ../../libthecore/include/hangul.h
+.obj/HB.o: ../../libthecore/include/buffer.h
+.obj/HB.o: ../../libthecore/include/signal.h ../../libthecore/include/log.h
+.obj/HB.o: ../../libthecore/include/main.h ../../libthecore/include/utils.h
+.obj/HB.o: ../../libthecore/include/crypt.h ../../libthecore/include/memcpy.h
+.obj/HB.o: ../../common/length.h ../../common/item_length.h
+.obj/HB.o: ../../common/tables.h ../../common/length.h
+.obj/HB.o: ../../common/singleton.h ../../common/utils.h ../../common/stl.h
+.obj/HB.o: ../../common/service.h HB.h Main.h DBManager.h
+.obj/HB.o: /usr/local/include/mysql/mysql.h
+.obj/HB.o: /usr/local/include/mysql/mysql_version.h
+.obj/HB.o: /usr/local/include/mysql/mysql_com.h
+.obj/HB.o: /usr/local/include/mysql/mysql_time.h
+.obj/HB.o: /usr/local/include/mysql/my_list.h
+.obj/HB.o: /usr/local/include/mysql/typelib.h
+.obj/HB.o: /usr/local/include/mysql/my_alloc.h ../../libsql/AsyncSQL.h
+.obj/HB.o: ../../libthecore/include/stdafx.h ../../libthecore/include/log.h
+.obj/HB.o: /usr/local/include/mysql/errmsg.h
+.obj/HB.o: /usr/local/include/mysql/mysqld_error.h ../../libsql/Semaphore.h
+.obj/PrivManager.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/PrivManager.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/PrivManager.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/PrivManager.o: /usr/include/machine/_types.h /usr/include/x86/_types.h
+.obj/PrivManager.o: /usr/include/machine/_limits.h /usr/include/x86/_limits.h
+.obj/PrivManager.o: /usr/include/string.h /usr/include/strings.h
+.obj/PrivManager.o: /usr/include/xlocale/_strings.h
+.obj/PrivManager.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/PrivManager.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/PrivManager.o: /usr/include/errno.h /usr/include/stdlib.h
+.obj/PrivManager.o: /usr/include/unistd.h /usr/include/sys/types.h
+.obj/PrivManager.o: /usr/include/machine/endian.h /usr/include/x86/endian.h
+.obj/PrivManager.o: /usr/include/sys/_endian.h
+.obj/PrivManager.o: /usr/include/sys/_pthreadtypes.h
+.obj/PrivManager.o: /usr/include/sys/_stdint.h /usr/include/sys/select.h
+.obj/PrivManager.o: /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h
+.obj/PrivManager.o: /usr/include/sys/timespec.h /usr/include/sys/_timespec.h
+.obj/PrivManager.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/PrivManager.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/PrivManager.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/PrivManager.o: /usr/include/xlocale/_ctype.h /usr/include/limits.h
+.obj/PrivManager.o: /usr/include/sys/limits.h /usr/include/sys/syslimits.h
+.obj/PrivManager.o: /usr/include/dirent.h /usr/include/sys/dirent.h
+.obj/PrivManager.o: /usr/include/sys/time.h /usr/include/sys/_clock_id.h
+.obj/PrivManager.o: /usr/include/time.h /usr/include/xlocale/_time.h
+.obj/PrivManager.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/PrivManager.o: /usr/include/sys/_sockaddr_storage.h
+.obj/PrivManager.o: /usr/include/netinet6/in6.h /usr/include/arpa/inet.h
+.obj/PrivManager.o: /usr/include/netdb.h /usr/include/sys/socket.h
+.obj/PrivManager.o: /usr/include/sys/_iovec.h /usr/include/machine/_align.h
+.obj/PrivManager.o: /usr/include/x86/_align.h /usr/include/sys/signal.h
+.obj/PrivManager.o: /usr/include/machine/signal.h /usr/include/x86/signal.h
+.obj/PrivManager.o: /usr/include/sys/wait.h /usr/include/pthread.h
+.obj/PrivManager.o: /usr/include/sched.h /usr/include/sys/sched.h
+.obj/PrivManager.o: /usr/include/sys/cpuset.h /usr/include/sys/_cpuset.h
+.obj/PrivManager.o: /usr/include/sys/_bitset.h /usr/include/sys/bitset.h
+.obj/PrivManager.o: /usr/include/semaphore.h /usr/include/sys/_umtx.h
+.obj/PrivManager.o: /usr/include/sys/event.h /usr/include/sys/queue.h
+.obj/PrivManager.o: ../../libthecore/include/typedef.h
+.obj/PrivManager.o: ../../libthecore/include/heart.h
+.obj/PrivManager.o: ../../libthecore/include/fdwatch.h
+.obj/PrivManager.o: ../../libthecore/include/socket.h
+.obj/PrivManager.o: ../../libthecore/include/kstbl.h
+.obj/PrivManager.o: ../../libthecore/include/hangul.h
+.obj/PrivManager.o: ../../libthecore/include/buffer.h
+.obj/PrivManager.o: ../../libthecore/include/signal.h
+.obj/PrivManager.o: ../../libthecore/include/log.h
+.obj/PrivManager.o: ../../libthecore/include/main.h
+.obj/PrivManager.o: ../../libthecore/include/utils.h
+.obj/PrivManager.o: ../../libthecore/include/crypt.h
+.obj/PrivManager.o: ../../libthecore/include/memcpy.h ../../common/length.h
+.obj/PrivManager.o: ../../common/item_length.h ../../common/tables.h
+.obj/PrivManager.o: ../../common/length.h ../../common/singleton.h
+.obj/PrivManager.o: ../../common/utils.h ../../common/stl.h
+.obj/PrivManager.o: ../../common/service.h PrivManager.h Peer.h PeerBase.h
+.obj/PrivManager.o: NetBase.h ClientManager.h ../../common/building.h
+.obj/PrivManager.o: ../../common/auction_table.h ../../common/tables.h
+.obj/PrivManager.o: DBManager.h /usr/local/include/mysql/mysql.h
+.obj/PrivManager.o: /usr/local/include/mysql/mysql_version.h
+.obj/PrivManager.o: /usr/local/include/mysql/mysql_com.h
+.obj/PrivManager.o: /usr/local/include/mysql/mysql_time.h
+.obj/PrivManager.o: /usr/local/include/mysql/my_list.h
+.obj/PrivManager.o: /usr/local/include/mysql/typelib.h
+.obj/PrivManager.o: /usr/local/include/mysql/my_alloc.h
+.obj/PrivManager.o: ../../libsql/AsyncSQL.h ../../libthecore/include/stdafx.h
+.obj/PrivManager.o: ../../libthecore/include/log.h
+.obj/PrivManager.o: /usr/local/include/mysql/errmsg.h
+.obj/PrivManager.o: /usr/local/include/mysql/mysqld_error.h
+.obj/PrivManager.o: ../../libsql/Semaphore.h LoginData.h
+.obj/MoneyLog.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/MoneyLog.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/MoneyLog.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/MoneyLog.o: /usr/include/machine/_types.h /usr/include/x86/_types.h
+.obj/MoneyLog.o: /usr/include/machine/_limits.h /usr/include/x86/_limits.h
+.obj/MoneyLog.o: /usr/include/string.h /usr/include/strings.h
+.obj/MoneyLog.o: /usr/include/xlocale/_strings.h
+.obj/MoneyLog.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/MoneyLog.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/MoneyLog.o: /usr/include/errno.h /usr/include/stdlib.h
+.obj/MoneyLog.o: /usr/include/unistd.h /usr/include/sys/types.h
+.obj/MoneyLog.o: /usr/include/machine/endian.h /usr/include/x86/endian.h
+.obj/MoneyLog.o: /usr/include/sys/_endian.h /usr/include/sys/_pthreadtypes.h
+.obj/MoneyLog.o: /usr/include/sys/_stdint.h /usr/include/sys/select.h
+.obj/MoneyLog.o: /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h
+.obj/MoneyLog.o: /usr/include/sys/timespec.h /usr/include/sys/_timespec.h
+.obj/MoneyLog.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/MoneyLog.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/MoneyLog.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/MoneyLog.o: /usr/include/xlocale/_ctype.h /usr/include/limits.h
+.obj/MoneyLog.o: /usr/include/sys/limits.h /usr/include/sys/syslimits.h
+.obj/MoneyLog.o: /usr/include/dirent.h /usr/include/sys/dirent.h
+.obj/MoneyLog.o: /usr/include/sys/time.h /usr/include/sys/_clock_id.h
+.obj/MoneyLog.o: /usr/include/time.h /usr/include/xlocale/_time.h
+.obj/MoneyLog.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/MoneyLog.o: /usr/include/sys/_sockaddr_storage.h
+.obj/MoneyLog.o: /usr/include/netinet6/in6.h /usr/include/arpa/inet.h
+.obj/MoneyLog.o: /usr/include/netdb.h /usr/include/sys/socket.h
+.obj/MoneyLog.o: /usr/include/sys/_iovec.h /usr/include/machine/_align.h
+.obj/MoneyLog.o: /usr/include/x86/_align.h /usr/include/sys/signal.h
+.obj/MoneyLog.o: /usr/include/machine/signal.h /usr/include/x86/signal.h
+.obj/MoneyLog.o: /usr/include/sys/wait.h /usr/include/pthread.h
+.obj/MoneyLog.o: /usr/include/sched.h /usr/include/sys/sched.h
+.obj/MoneyLog.o: /usr/include/sys/cpuset.h /usr/include/sys/_cpuset.h
+.obj/MoneyLog.o: /usr/include/sys/_bitset.h /usr/include/sys/bitset.h
+.obj/MoneyLog.o: /usr/include/semaphore.h /usr/include/sys/_umtx.h
+.obj/MoneyLog.o: /usr/include/sys/event.h /usr/include/sys/queue.h
+.obj/MoneyLog.o: ../../libthecore/include/typedef.h
+.obj/MoneyLog.o: ../../libthecore/include/heart.h
+.obj/MoneyLog.o: ../../libthecore/include/fdwatch.h
+.obj/MoneyLog.o: ../../libthecore/include/socket.h
+.obj/MoneyLog.o: ../../libthecore/include/kstbl.h
+.obj/MoneyLog.o: ../../libthecore/include/hangul.h
+.obj/MoneyLog.o: ../../libthecore/include/buffer.h
+.obj/MoneyLog.o: ../../libthecore/include/signal.h
+.obj/MoneyLog.o: ../../libthecore/include/log.h
+.obj/MoneyLog.o: ../../libthecore/include/main.h
+.obj/MoneyLog.o: ../../libthecore/include/utils.h
+.obj/MoneyLog.o: ../../libthecore/include/crypt.h
+.obj/MoneyLog.o: ../../libthecore/include/memcpy.h ../../common/length.h
+.obj/MoneyLog.o: ../../common/item_length.h ../../common/tables.h
+.obj/MoneyLog.o: ../../common/length.h ../../common/singleton.h
+.obj/MoneyLog.o: ../../common/utils.h ../../common/stl.h
+.obj/MoneyLog.o: ../../common/service.h MoneyLog.h ClientManager.h
+.obj/MoneyLog.o: ../../common/building.h ../../common/auction_table.h
+.obj/MoneyLog.o: ../../common/tables.h Peer.h PeerBase.h NetBase.h
+.obj/MoneyLog.o: DBManager.h /usr/local/include/mysql/mysql.h
+.obj/MoneyLog.o: /usr/local/include/mysql/mysql_version.h
+.obj/MoneyLog.o: /usr/local/include/mysql/mysql_com.h
+.obj/MoneyLog.o: /usr/local/include/mysql/mysql_time.h
+.obj/MoneyLog.o: /usr/local/include/mysql/my_list.h
+.obj/MoneyLog.o: /usr/local/include/mysql/typelib.h
+.obj/MoneyLog.o: /usr/local/include/mysql/my_alloc.h ../../libsql/AsyncSQL.h
+.obj/MoneyLog.o: ../../libthecore/include/stdafx.h
+.obj/MoneyLog.o: ../../libthecore/include/log.h
+.obj/MoneyLog.o: /usr/local/include/mysql/errmsg.h
+.obj/MoneyLog.o: /usr/local/include/mysql/mysqld_error.h
+.obj/MoneyLog.o: ../../libsql/Semaphore.h LoginData.h
+.obj/ItemAwardManager.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/ItemAwardManager.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/ItemAwardManager.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/ItemAwardManager.o: /usr/include/machine/_types.h
+.obj/ItemAwardManager.o: /usr/include/x86/_types.h
+.obj/ItemAwardManager.o: /usr/include/machine/_limits.h
+.obj/ItemAwardManager.o: /usr/include/x86/_limits.h /usr/include/string.h
+.obj/ItemAwardManager.o: /usr/include/strings.h
+.obj/ItemAwardManager.o: /usr/include/xlocale/_strings.h
+.obj/ItemAwardManager.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/ItemAwardManager.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/ItemAwardManager.o: /usr/include/errno.h /usr/include/stdlib.h
+.obj/ItemAwardManager.o: /usr/include/unistd.h /usr/include/sys/types.h
+.obj/ItemAwardManager.o: /usr/include/machine/endian.h
+.obj/ItemAwardManager.o: /usr/include/x86/endian.h /usr/include/sys/_endian.h
+.obj/ItemAwardManager.o: /usr/include/sys/_pthreadtypes.h
+.obj/ItemAwardManager.o: /usr/include/sys/_stdint.h /usr/include/sys/select.h
+.obj/ItemAwardManager.o: /usr/include/sys/_sigset.h
+.obj/ItemAwardManager.o: /usr/include/sys/_timeval.h
+.obj/ItemAwardManager.o: /usr/include/sys/timespec.h
+.obj/ItemAwardManager.o: /usr/include/sys/_timespec.h
+.obj/ItemAwardManager.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/ItemAwardManager.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/ItemAwardManager.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/ItemAwardManager.o: /usr/include/xlocale/_ctype.h /usr/include/limits.h
+.obj/ItemAwardManager.o: /usr/include/sys/limits.h
+.obj/ItemAwardManager.o: /usr/include/sys/syslimits.h /usr/include/dirent.h
+.obj/ItemAwardManager.o: /usr/include/sys/dirent.h /usr/include/sys/time.h
+.obj/ItemAwardManager.o: /usr/include/sys/_clock_id.h /usr/include/time.h
+.obj/ItemAwardManager.o: /usr/include/xlocale/_time.h /usr/include/sys/stat.h
+.obj/ItemAwardManager.o: /usr/include/netinet/in.h
+.obj/ItemAwardManager.o: /usr/include/sys/_sockaddr_storage.h
+.obj/ItemAwardManager.o: /usr/include/netinet6/in6.h /usr/include/arpa/inet.h
+.obj/ItemAwardManager.o: /usr/include/netdb.h /usr/include/sys/socket.h
+.obj/ItemAwardManager.o: /usr/include/sys/_iovec.h
+.obj/ItemAwardManager.o: /usr/include/machine/_align.h
+.obj/ItemAwardManager.o: /usr/include/x86/_align.h /usr/include/sys/signal.h
+.obj/ItemAwardManager.o: /usr/include/machine/signal.h
+.obj/ItemAwardManager.o: /usr/include/x86/signal.h /usr/include/sys/wait.h
+.obj/ItemAwardManager.o: /usr/include/pthread.h /usr/include/sched.h
+.obj/ItemAwardManager.o: /usr/include/sys/sched.h /usr/include/sys/cpuset.h
+.obj/ItemAwardManager.o: /usr/include/sys/_cpuset.h
+.obj/ItemAwardManager.o: /usr/include/sys/_bitset.h /usr/include/sys/bitset.h
+.obj/ItemAwardManager.o: /usr/include/semaphore.h /usr/include/sys/_umtx.h
+.obj/ItemAwardManager.o: /usr/include/sys/event.h /usr/include/sys/queue.h
+.obj/ItemAwardManager.o: ../../libthecore/include/typedef.h
+.obj/ItemAwardManager.o: ../../libthecore/include/heart.h
+.obj/ItemAwardManager.o: ../../libthecore/include/fdwatch.h
+.obj/ItemAwardManager.o: ../../libthecore/include/socket.h
+.obj/ItemAwardManager.o: ../../libthecore/include/kstbl.h
+.obj/ItemAwardManager.o: ../../libthecore/include/hangul.h
+.obj/ItemAwardManager.o: ../../libthecore/include/buffer.h
+.obj/ItemAwardManager.o: ../../libthecore/include/signal.h
+.obj/ItemAwardManager.o: ../../libthecore/include/log.h
+.obj/ItemAwardManager.o: ../../libthecore/include/main.h
+.obj/ItemAwardManager.o: ../../libthecore/include/utils.h
+.obj/ItemAwardManager.o: ../../libthecore/include/crypt.h
+.obj/ItemAwardManager.o: ../../libthecore/include/memcpy.h
+.obj/ItemAwardManager.o: ../../common/length.h ../../common/item_length.h
+.obj/ItemAwardManager.o: ../../common/tables.h ../../common/length.h
+.obj/ItemAwardManager.o: ../../common/singleton.h ../../common/utils.h
+.obj/ItemAwardManager.o: ../../common/stl.h ../../common/service.h QID.h
+.obj/ItemAwardManager.o: DBManager.h /usr/local/include/mysql/mysql.h
+.obj/ItemAwardManager.o: /usr/local/include/mysql/mysql_version.h
+.obj/ItemAwardManager.o: /usr/local/include/mysql/mysql_com.h
+.obj/ItemAwardManager.o: /usr/local/include/mysql/mysql_time.h
+.obj/ItemAwardManager.o: /usr/local/include/mysql/my_list.h
+.obj/ItemAwardManager.o: /usr/local/include/mysql/typelib.h
+.obj/ItemAwardManager.o: /usr/local/include/mysql/my_alloc.h
+.obj/ItemAwardManager.o: ../../libsql/AsyncSQL.h
+.obj/ItemAwardManager.o: ../../libthecore/include/stdafx.h
+.obj/ItemAwardManager.o: ../../libthecore/include/log.h
+.obj/ItemAwardManager.o: /usr/local/include/mysql/errmsg.h
+.obj/ItemAwardManager.o: /usr/local/include/mysql/mysqld_error.h
+.obj/ItemAwardManager.o: ../../libsql/Semaphore.h ItemAwardManager.h Peer.h
+.obj/ItemAwardManager.o: PeerBase.h NetBase.h ClientManager.h
+.obj/ItemAwardManager.o: ../../common/building.h ../../common/auction_table.h
+.obj/ItemAwardManager.o: ../../common/tables.h LoginData.h
+.obj/ClientManagerEventFlag.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/ClientManagerEventFlag.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/_null.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/_types.h
+.obj/ClientManagerEventFlag.o: /usr/include/machine/_types.h
+.obj/ClientManagerEventFlag.o: /usr/include/x86/_types.h
+.obj/ClientManagerEventFlag.o: /usr/include/machine/_limits.h
+.obj/ClientManagerEventFlag.o: /usr/include/x86/_limits.h
+.obj/ClientManagerEventFlag.o: /usr/include/string.h /usr/include/strings.h
+.obj/ClientManagerEventFlag.o: /usr/include/xlocale/_strings.h
+.obj/ClientManagerEventFlag.o: /usr/include/xlocale/_string.h
+.obj/ClientManagerEventFlag.o: /usr/include/stdarg.h
+.obj/ClientManagerEventFlag.o: /usr/include/x86/stdarg.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/_stdarg.h
+.obj/ClientManagerEventFlag.o: /usr/include/errno.h /usr/include/stdlib.h
+.obj/ClientManagerEventFlag.o: /usr/include/unistd.h /usr/include/sys/types.h
+.obj/ClientManagerEventFlag.o: /usr/include/machine/endian.h
+.obj/ClientManagerEventFlag.o: /usr/include/x86/endian.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/_endian.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/_pthreadtypes.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/_stdint.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/select.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/_sigset.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/_timeval.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/timespec.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/_timespec.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/ClientManagerEventFlag.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/ClientManagerEventFlag.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/ClientManagerEventFlag.o: /usr/include/xlocale/_ctype.h
+.obj/ClientManagerEventFlag.o: /usr/include/limits.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/limits.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/syslimits.h
+.obj/ClientManagerEventFlag.o: /usr/include/dirent.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/dirent.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/time.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/_clock_id.h
+.obj/ClientManagerEventFlag.o: /usr/include/time.h
+.obj/ClientManagerEventFlag.o: /usr/include/xlocale/_time.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/stat.h
+.obj/ClientManagerEventFlag.o: /usr/include/netinet/in.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/_sockaddr_storage.h
+.obj/ClientManagerEventFlag.o: /usr/include/netinet6/in6.h
+.obj/ClientManagerEventFlag.o: /usr/include/arpa/inet.h /usr/include/netdb.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/socket.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/_iovec.h
+.obj/ClientManagerEventFlag.o: /usr/include/machine/_align.h
+.obj/ClientManagerEventFlag.o: /usr/include/x86/_align.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/signal.h
+.obj/ClientManagerEventFlag.o: /usr/include/machine/signal.h
+.obj/ClientManagerEventFlag.o: /usr/include/x86/signal.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/wait.h /usr/include/pthread.h
+.obj/ClientManagerEventFlag.o: /usr/include/sched.h /usr/include/sys/sched.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/cpuset.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/_cpuset.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/_bitset.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/bitset.h
+.obj/ClientManagerEventFlag.o: /usr/include/semaphore.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/_umtx.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/event.h
+.obj/ClientManagerEventFlag.o: /usr/include/sys/queue.h
+.obj/ClientManagerEventFlag.o: ../../libthecore/include/typedef.h
+.obj/ClientManagerEventFlag.o: ../../libthecore/include/heart.h
+.obj/ClientManagerEventFlag.o: ../../libthecore/include/fdwatch.h
+.obj/ClientManagerEventFlag.o: ../../libthecore/include/socket.h
+.obj/ClientManagerEventFlag.o: ../../libthecore/include/kstbl.h
+.obj/ClientManagerEventFlag.o: ../../libthecore/include/hangul.h
+.obj/ClientManagerEventFlag.o: ../../libthecore/include/buffer.h
+.obj/ClientManagerEventFlag.o: ../../libthecore/include/signal.h
+.obj/ClientManagerEventFlag.o: ../../libthecore/include/log.h
+.obj/ClientManagerEventFlag.o: ../../libthecore/include/main.h
+.obj/ClientManagerEventFlag.o: ../../libthecore/include/utils.h
+.obj/ClientManagerEventFlag.o: ../../libthecore/include/crypt.h
+.obj/ClientManagerEventFlag.o: ../../libthecore/include/memcpy.h
+.obj/ClientManagerEventFlag.o: ../../common/length.h
+.obj/ClientManagerEventFlag.o: ../../common/item_length.h
+.obj/ClientManagerEventFlag.o: ../../common/tables.h ../../common/length.h
+.obj/ClientManagerEventFlag.o: ../../common/singleton.h ../../common/utils.h
+.obj/ClientManagerEventFlag.o: ../../common/stl.h ../../common/service.h
+.obj/ClientManagerEventFlag.o: ClientManager.h ../../common/building.h
+.obj/ClientManagerEventFlag.o: ../../common/auction_table.h
+.obj/ClientManagerEventFlag.o: ../../common/tables.h Peer.h PeerBase.h
+.obj/ClientManagerEventFlag.o: NetBase.h DBManager.h
+.obj/ClientManagerEventFlag.o: /usr/local/include/mysql/mysql.h
+.obj/ClientManagerEventFlag.o: /usr/local/include/mysql/mysql_version.h
+.obj/ClientManagerEventFlag.o: /usr/local/include/mysql/mysql_com.h
+.obj/ClientManagerEventFlag.o: /usr/local/include/mysql/mysql_time.h
+.obj/ClientManagerEventFlag.o: /usr/local/include/mysql/my_list.h
+.obj/ClientManagerEventFlag.o: /usr/local/include/mysql/typelib.h
+.obj/ClientManagerEventFlag.o: /usr/local/include/mysql/my_alloc.h
+.obj/ClientManagerEventFlag.o: ../../libsql/AsyncSQL.h
+.obj/ClientManagerEventFlag.o: ../../libthecore/include/stdafx.h
+.obj/ClientManagerEventFlag.o: ../../libthecore/include/log.h
+.obj/ClientManagerEventFlag.o: /usr/local/include/mysql/errmsg.h
+.obj/ClientManagerEventFlag.o: /usr/local/include/mysql/mysqld_error.h
+.obj/ClientManagerEventFlag.o: ../../libsql/Semaphore.h LoginData.h Main.h
+.obj/ClientManagerEventFlag.o: Config.h QID.h
+.obj/Marriage.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/Marriage.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/Marriage.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/Marriage.o: /usr/include/machine/_types.h /usr/include/x86/_types.h
+.obj/Marriage.o: /usr/include/machine/_limits.h /usr/include/x86/_limits.h
+.obj/Marriage.o: /usr/include/string.h /usr/include/strings.h
+.obj/Marriage.o: /usr/include/xlocale/_strings.h
+.obj/Marriage.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/Marriage.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/Marriage.o: /usr/include/errno.h /usr/include/stdlib.h
+.obj/Marriage.o: /usr/include/unistd.h /usr/include/sys/types.h
+.obj/Marriage.o: /usr/include/machine/endian.h /usr/include/x86/endian.h
+.obj/Marriage.o: /usr/include/sys/_endian.h /usr/include/sys/_pthreadtypes.h
+.obj/Marriage.o: /usr/include/sys/_stdint.h /usr/include/sys/select.h
+.obj/Marriage.o: /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h
+.obj/Marriage.o: /usr/include/sys/timespec.h /usr/include/sys/_timespec.h
+.obj/Marriage.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/Marriage.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/Marriage.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/Marriage.o: /usr/include/xlocale/_ctype.h /usr/include/limits.h
+.obj/Marriage.o: /usr/include/sys/limits.h /usr/include/sys/syslimits.h
+.obj/Marriage.o: /usr/include/dirent.h /usr/include/sys/dirent.h
+.obj/Marriage.o: /usr/include/sys/time.h /usr/include/sys/_clock_id.h
+.obj/Marriage.o: /usr/include/time.h /usr/include/xlocale/_time.h
+.obj/Marriage.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/Marriage.o: /usr/include/sys/_sockaddr_storage.h
+.obj/Marriage.o: /usr/include/netinet6/in6.h /usr/include/arpa/inet.h
+.obj/Marriage.o: /usr/include/netdb.h /usr/include/sys/socket.h
+.obj/Marriage.o: /usr/include/sys/_iovec.h /usr/include/machine/_align.h
+.obj/Marriage.o: /usr/include/x86/_align.h /usr/include/sys/signal.h
+.obj/Marriage.o: /usr/include/machine/signal.h /usr/include/x86/signal.h
+.obj/Marriage.o: /usr/include/sys/wait.h /usr/include/pthread.h
+.obj/Marriage.o: /usr/include/sched.h /usr/include/sys/sched.h
+.obj/Marriage.o: /usr/include/sys/cpuset.h /usr/include/sys/_cpuset.h
+.obj/Marriage.o: /usr/include/sys/_bitset.h /usr/include/sys/bitset.h
+.obj/Marriage.o: /usr/include/semaphore.h /usr/include/sys/_umtx.h
+.obj/Marriage.o: /usr/include/sys/event.h /usr/include/sys/queue.h
+.obj/Marriage.o: ../../libthecore/include/typedef.h
+.obj/Marriage.o: ../../libthecore/include/heart.h
+.obj/Marriage.o: ../../libthecore/include/fdwatch.h
+.obj/Marriage.o: ../../libthecore/include/socket.h
+.obj/Marriage.o: ../../libthecore/include/kstbl.h
+.obj/Marriage.o: ../../libthecore/include/hangul.h
+.obj/Marriage.o: ../../libthecore/include/buffer.h
+.obj/Marriage.o: ../../libthecore/include/signal.h
+.obj/Marriage.o: ../../libthecore/include/log.h
+.obj/Marriage.o: ../../libthecore/include/main.h
+.obj/Marriage.o: ../../libthecore/include/utils.h
+.obj/Marriage.o: ../../libthecore/include/crypt.h
+.obj/Marriage.o: ../../libthecore/include/memcpy.h ../../common/length.h
+.obj/Marriage.o: ../../common/item_length.h ../../common/tables.h
+.obj/Marriage.o: ../../common/length.h ../../common/singleton.h
+.obj/Marriage.o: ../../common/utils.h ../../common/stl.h
+.obj/Marriage.o: ../../common/service.h Marriage.h Peer.h PeerBase.h
+.obj/Marriage.o: NetBase.h Main.h DBManager.h
+.obj/Marriage.o: /usr/local/include/mysql/mysql.h
+.obj/Marriage.o: /usr/local/include/mysql/mysql_version.h
+.obj/Marriage.o: /usr/local/include/mysql/mysql_com.h
+.obj/Marriage.o: /usr/local/include/mysql/mysql_time.h
+.obj/Marriage.o: /usr/local/include/mysql/my_list.h
+.obj/Marriage.o: /usr/local/include/mysql/typelib.h
+.obj/Marriage.o: /usr/local/include/mysql/my_alloc.h ../../libsql/AsyncSQL.h
+.obj/Marriage.o: ../../libthecore/include/stdafx.h
+.obj/Marriage.o: ../../libthecore/include/log.h
+.obj/Marriage.o: /usr/local/include/mysql/errmsg.h
+.obj/Marriage.o: /usr/local/include/mysql/mysqld_error.h
+.obj/Marriage.o: ../../libsql/Semaphore.h ClientManager.h
+.obj/Marriage.o: ../../common/building.h ../../common/auction_table.h
+.obj/Marriage.o: ../../common/tables.h LoginData.h
+.obj/Monarch.o: Monarch.h ../../libthecore/include/stdafx.h
+.obj/Monarch.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/Monarch.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/Monarch.o: /usr/include/machine/_types.h /usr/include/x86/_types.h
+.obj/Monarch.o: /usr/include/machine/_limits.h /usr/include/x86/_limits.h
+.obj/Monarch.o: /usr/include/string.h /usr/include/strings.h
+.obj/Monarch.o: /usr/include/xlocale/_strings.h
+.obj/Monarch.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/Monarch.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/Monarch.o: /usr/include/errno.h /usr/include/stdlib.h
+.obj/Monarch.o: /usr/include/unistd.h /usr/include/sys/types.h
+.obj/Monarch.o: /usr/include/machine/endian.h /usr/include/x86/endian.h
+.obj/Monarch.o: /usr/include/sys/_endian.h /usr/include/sys/_pthreadtypes.h
+.obj/Monarch.o: /usr/include/sys/_stdint.h /usr/include/sys/select.h
+.obj/Monarch.o: /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h
+.obj/Monarch.o: /usr/include/sys/timespec.h /usr/include/sys/_timespec.h
+.obj/Monarch.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/Monarch.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/Monarch.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/Monarch.o: /usr/include/xlocale/_ctype.h /usr/include/limits.h
+.obj/Monarch.o: /usr/include/sys/limits.h /usr/include/sys/syslimits.h
+.obj/Monarch.o: /usr/include/dirent.h /usr/include/sys/dirent.h
+.obj/Monarch.o: /usr/include/sys/time.h /usr/include/sys/_clock_id.h
+.obj/Monarch.o: /usr/include/time.h /usr/include/xlocale/_time.h
+.obj/Monarch.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/Monarch.o: /usr/include/sys/_sockaddr_storage.h
+.obj/Monarch.o: /usr/include/netinet6/in6.h /usr/include/arpa/inet.h
+.obj/Monarch.o: /usr/include/netdb.h /usr/include/sys/socket.h
+.obj/Monarch.o: /usr/include/sys/_iovec.h /usr/include/machine/_align.h
+.obj/Monarch.o: /usr/include/x86/_align.h /usr/include/sys/signal.h
+.obj/Monarch.o: /usr/include/machine/signal.h /usr/include/x86/signal.h
+.obj/Monarch.o: /usr/include/sys/wait.h /usr/include/pthread.h
+.obj/Monarch.o: /usr/include/sched.h /usr/include/sys/sched.h
+.obj/Monarch.o: /usr/include/sys/cpuset.h /usr/include/sys/_cpuset.h
+.obj/Monarch.o: /usr/include/sys/_bitset.h /usr/include/sys/bitset.h
+.obj/Monarch.o: /usr/include/semaphore.h /usr/include/sys/_umtx.h
+.obj/Monarch.o: /usr/include/sys/event.h /usr/include/sys/queue.h
+.obj/Monarch.o: ../../libthecore/include/typedef.h
+.obj/Monarch.o: ../../libthecore/include/heart.h
+.obj/Monarch.o: ../../libthecore/include/fdwatch.h
+.obj/Monarch.o: ../../libthecore/include/socket.h
+.obj/Monarch.o: ../../libthecore/include/kstbl.h
+.obj/Monarch.o: ../../libthecore/include/hangul.h
+.obj/Monarch.o: ../../libthecore/include/buffer.h
+.obj/Monarch.o: ../../libthecore/include/signal.h
+.obj/Monarch.o: ../../libthecore/include/log.h
+.obj/Monarch.o: ../../libthecore/include/main.h
+.obj/Monarch.o: ../../libthecore/include/utils.h
+.obj/Monarch.o: ../../libthecore/include/crypt.h
+.obj/Monarch.o: ../../libthecore/include/memcpy.h ../../common/singleton.h
+.obj/Monarch.o: ../../common/tables.h ../../common/length.h
+.obj/Monarch.o: ../../common/utils.h Main.h ClientManager.h
+.obj/Monarch.o: ../../common/stl.h ../../common/building.h
+.obj/Monarch.o: ../../common/auction_table.h ../../common/tables.h Peer.h
+.obj/Monarch.o: PeerBase.h NetBase.h DBManager.h
+.obj/Monarch.o: /usr/local/include/mysql/mysql.h
+.obj/Monarch.o: /usr/local/include/mysql/mysql_version.h
+.obj/Monarch.o: /usr/local/include/mysql/mysql_com.h
+.obj/Monarch.o: /usr/local/include/mysql/mysql_time.h
+.obj/Monarch.o: /usr/local/include/mysql/my_list.h
+.obj/Monarch.o: /usr/local/include/mysql/typelib.h
+.obj/Monarch.o: /usr/local/include/mysql/my_alloc.h ../../libsql/AsyncSQL.h
+.obj/Monarch.o: ../../libthecore/include/stdafx.h
+.obj/Monarch.o: ../../libthecore/include/log.h
+.obj/Monarch.o: /usr/local/include/mysql/errmsg.h
+.obj/Monarch.o: /usr/local/include/mysql/mysqld_error.h
+.obj/Monarch.o: ../../libsql/Semaphore.h LoginData.h
+.obj/BlockCountry.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/BlockCountry.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/BlockCountry.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/BlockCountry.o: /usr/include/machine/_types.h /usr/include/x86/_types.h
+.obj/BlockCountry.o: /usr/include/machine/_limits.h
+.obj/BlockCountry.o: /usr/include/x86/_limits.h /usr/include/string.h
+.obj/BlockCountry.o: /usr/include/strings.h /usr/include/xlocale/_strings.h
+.obj/BlockCountry.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/BlockCountry.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/BlockCountry.o: /usr/include/errno.h /usr/include/stdlib.h
+.obj/BlockCountry.o: /usr/include/unistd.h /usr/include/sys/types.h
+.obj/BlockCountry.o: /usr/include/machine/endian.h /usr/include/x86/endian.h
+.obj/BlockCountry.o: /usr/include/sys/_endian.h
+.obj/BlockCountry.o: /usr/include/sys/_pthreadtypes.h
+.obj/BlockCountry.o: /usr/include/sys/_stdint.h /usr/include/sys/select.h
+.obj/BlockCountry.o: /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h
+.obj/BlockCountry.o: /usr/include/sys/timespec.h /usr/include/sys/_timespec.h
+.obj/BlockCountry.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/BlockCountry.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/BlockCountry.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/BlockCountry.o: /usr/include/xlocale/_ctype.h /usr/include/limits.h
+.obj/BlockCountry.o: /usr/include/sys/limits.h /usr/include/sys/syslimits.h
+.obj/BlockCountry.o: /usr/include/dirent.h /usr/include/sys/dirent.h
+.obj/BlockCountry.o: /usr/include/sys/time.h /usr/include/sys/_clock_id.h
+.obj/BlockCountry.o: /usr/include/time.h /usr/include/xlocale/_time.h
+.obj/BlockCountry.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/BlockCountry.o: /usr/include/sys/_sockaddr_storage.h
+.obj/BlockCountry.o: /usr/include/netinet6/in6.h /usr/include/arpa/inet.h
+.obj/BlockCountry.o: /usr/include/netdb.h /usr/include/sys/socket.h
+.obj/BlockCountry.o: /usr/include/sys/_iovec.h /usr/include/machine/_align.h
+.obj/BlockCountry.o: /usr/include/x86/_align.h /usr/include/sys/signal.h
+.obj/BlockCountry.o: /usr/include/machine/signal.h /usr/include/x86/signal.h
+.obj/BlockCountry.o: /usr/include/sys/wait.h /usr/include/pthread.h
+.obj/BlockCountry.o: /usr/include/sched.h /usr/include/sys/sched.h
+.obj/BlockCountry.o: /usr/include/sys/cpuset.h /usr/include/sys/_cpuset.h
+.obj/BlockCountry.o: /usr/include/sys/_bitset.h /usr/include/sys/bitset.h
+.obj/BlockCountry.o: /usr/include/semaphore.h /usr/include/sys/_umtx.h
+.obj/BlockCountry.o: /usr/include/sys/event.h /usr/include/sys/queue.h
+.obj/BlockCountry.o: ../../libthecore/include/typedef.h
+.obj/BlockCountry.o: ../../libthecore/include/heart.h
+.obj/BlockCountry.o: ../../libthecore/include/fdwatch.h
+.obj/BlockCountry.o: ../../libthecore/include/socket.h
+.obj/BlockCountry.o: ../../libthecore/include/kstbl.h
+.obj/BlockCountry.o: ../../libthecore/include/hangul.h
+.obj/BlockCountry.o: ../../libthecore/include/buffer.h
+.obj/BlockCountry.o: ../../libthecore/include/signal.h
+.obj/BlockCountry.o: ../../libthecore/include/log.h
+.obj/BlockCountry.o: ../../libthecore/include/main.h
+.obj/BlockCountry.o: ../../libthecore/include/utils.h
+.obj/BlockCountry.o: ../../libthecore/include/crypt.h
+.obj/BlockCountry.o: ../../libthecore/include/memcpy.h ../../common/length.h
+.obj/BlockCountry.o: ../../common/item_length.h ../../common/tables.h
+.obj/BlockCountry.o: ../../common/length.h ../../common/singleton.h
+.obj/BlockCountry.o: ../../common/utils.h ../../common/stl.h
+.obj/BlockCountry.o: ../../common/service.h BlockCountry.h Peer.h PeerBase.h
+.obj/BlockCountry.o: NetBase.h DBManager.h /usr/local/include/mysql/mysql.h
+.obj/BlockCountry.o: /usr/local/include/mysql/mysql_version.h
+.obj/BlockCountry.o: /usr/local/include/mysql/mysql_com.h
+.obj/BlockCountry.o: /usr/local/include/mysql/mysql_time.h
+.obj/BlockCountry.o: /usr/local/include/mysql/my_list.h
+.obj/BlockCountry.o: /usr/local/include/mysql/typelib.h
+.obj/BlockCountry.o: /usr/local/include/mysql/my_alloc.h
+.obj/BlockCountry.o: ../../libsql/AsyncSQL.h
+.obj/BlockCountry.o: ../../libthecore/include/stdafx.h
+.obj/BlockCountry.o: ../../libthecore/include/log.h
+.obj/BlockCountry.o: /usr/local/include/mysql/errmsg.h
+.obj/BlockCountry.o: /usr/local/include/mysql/mysqld_error.h
+.obj/BlockCountry.o: ../../libsql/Semaphore.h
+.obj/ItemIDRangeManager.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/ItemIDRangeManager.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/ItemIDRangeManager.o: /usr/include/machine/_types.h
+.obj/ItemIDRangeManager.o: /usr/include/x86/_types.h
+.obj/ItemIDRangeManager.o: /usr/include/machine/_limits.h
+.obj/ItemIDRangeManager.o: /usr/include/x86/_limits.h /usr/include/string.h
+.obj/ItemIDRangeManager.o: /usr/include/strings.h
+.obj/ItemIDRangeManager.o: /usr/include/xlocale/_strings.h
+.obj/ItemIDRangeManager.o: /usr/include/xlocale/_string.h
+.obj/ItemIDRangeManager.o: /usr/include/stdarg.h /usr/include/x86/stdarg.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/_stdarg.h /usr/include/errno.h
+.obj/ItemIDRangeManager.o: /usr/include/stdlib.h /usr/include/unistd.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/types.h
+.obj/ItemIDRangeManager.o: /usr/include/machine/endian.h
+.obj/ItemIDRangeManager.o: /usr/include/x86/endian.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/_endian.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/_pthreadtypes.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/_stdint.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/select.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/_sigset.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/_timeval.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/timespec.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/_timespec.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/ItemIDRangeManager.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/ItemIDRangeManager.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/ItemIDRangeManager.o: /usr/include/xlocale/_ctype.h
+.obj/ItemIDRangeManager.o: /usr/include/limits.h /usr/include/sys/limits.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/syslimits.h /usr/include/dirent.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/dirent.h /usr/include/sys/time.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/_clock_id.h /usr/include/time.h
+.obj/ItemIDRangeManager.o: /usr/include/xlocale/_time.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/_sockaddr_storage.h
+.obj/ItemIDRangeManager.o: /usr/include/netinet6/in6.h
+.obj/ItemIDRangeManager.o: /usr/include/arpa/inet.h /usr/include/netdb.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/socket.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/_iovec.h
+.obj/ItemIDRangeManager.o: /usr/include/machine/_align.h
+.obj/ItemIDRangeManager.o: /usr/include/x86/_align.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/signal.h
+.obj/ItemIDRangeManager.o: /usr/include/machine/signal.h
+.obj/ItemIDRangeManager.o: /usr/include/x86/signal.h /usr/include/sys/wait.h
+.obj/ItemIDRangeManager.o: /usr/include/pthread.h /usr/include/sched.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/sched.h /usr/include/sys/cpuset.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/_cpuset.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/_bitset.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/bitset.h /usr/include/semaphore.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/_umtx.h /usr/include/sys/event.h
+.obj/ItemIDRangeManager.o: /usr/include/sys/queue.h
+.obj/ItemIDRangeManager.o: ../../libthecore/include/typedef.h
+.obj/ItemIDRangeManager.o: ../../libthecore/include/heart.h
+.obj/ItemIDRangeManager.o: ../../libthecore/include/fdwatch.h
+.obj/ItemIDRangeManager.o: ../../libthecore/include/socket.h
+.obj/ItemIDRangeManager.o: ../../libthecore/include/kstbl.h
+.obj/ItemIDRangeManager.o: ../../libthecore/include/hangul.h
+.obj/ItemIDRangeManager.o: ../../libthecore/include/buffer.h
+.obj/ItemIDRangeManager.o: ../../libthecore/include/signal.h
+.obj/ItemIDRangeManager.o: ../../libthecore/include/log.h
+.obj/ItemIDRangeManager.o: ../../libthecore/include/main.h
+.obj/ItemIDRangeManager.o: ../../libthecore/include/utils.h
+.obj/ItemIDRangeManager.o: ../../libthecore/include/crypt.h
+.obj/ItemIDRangeManager.o: ../../libthecore/include/memcpy.h
+.obj/ItemIDRangeManager.o: ../../common/length.h ../../common/item_length.h
+.obj/ItemIDRangeManager.o: ../../common/tables.h ../../common/length.h
+.obj/ItemIDRangeManager.o: ../../common/singleton.h ../../common/utils.h
+.obj/ItemIDRangeManager.o: ../../common/stl.h ../../common/service.h
+.obj/ItemIDRangeManager.o: ItemIDRangeManager.h Main.h DBManager.h
+.obj/ItemIDRangeManager.o: /usr/local/include/mysql/mysql.h
+.obj/ItemIDRangeManager.o: /usr/local/include/mysql/mysql_version.h
+.obj/ItemIDRangeManager.o: /usr/local/include/mysql/mysql_com.h
+.obj/ItemIDRangeManager.o: /usr/local/include/mysql/mysql_time.h
+.obj/ItemIDRangeManager.o: /usr/local/include/mysql/my_list.h
+.obj/ItemIDRangeManager.o: /usr/local/include/mysql/typelib.h
+.obj/ItemIDRangeManager.o: /usr/local/include/mysql/my_alloc.h
+.obj/ItemIDRangeManager.o: ../../libsql/AsyncSQL.h
+.obj/ItemIDRangeManager.o: ../../libthecore/include/stdafx.h
+.obj/ItemIDRangeManager.o: ../../libthecore/include/log.h
+.obj/ItemIDRangeManager.o: /usr/local/include/mysql/errmsg.h
+.obj/ItemIDRangeManager.o: /usr/local/include/mysql/mysqld_error.h
+.obj/ItemIDRangeManager.o: ../../libsql/Semaphore.h ClientManager.h
+.obj/ItemIDRangeManager.o: ../../common/building.h
+.obj/ItemIDRangeManager.o: ../../common/auction_table.h ../../common/tables.h
+.obj/ItemIDRangeManager.o: Peer.h PeerBase.h NetBase.h LoginData.h
+.obj/ClientManagerHorseName.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/ClientManagerHorseName.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/_null.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/_types.h
+.obj/ClientManagerHorseName.o: /usr/include/machine/_types.h
+.obj/ClientManagerHorseName.o: /usr/include/x86/_types.h
+.obj/ClientManagerHorseName.o: /usr/include/machine/_limits.h
+.obj/ClientManagerHorseName.o: /usr/include/x86/_limits.h
+.obj/ClientManagerHorseName.o: /usr/include/string.h /usr/include/strings.h
+.obj/ClientManagerHorseName.o: /usr/include/xlocale/_strings.h
+.obj/ClientManagerHorseName.o: /usr/include/xlocale/_string.h
+.obj/ClientManagerHorseName.o: /usr/include/stdarg.h
+.obj/ClientManagerHorseName.o: /usr/include/x86/stdarg.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/_stdarg.h
+.obj/ClientManagerHorseName.o: /usr/include/errno.h /usr/include/stdlib.h
+.obj/ClientManagerHorseName.o: /usr/include/unistd.h /usr/include/sys/types.h
+.obj/ClientManagerHorseName.o: /usr/include/machine/endian.h
+.obj/ClientManagerHorseName.o: /usr/include/x86/endian.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/_endian.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/_pthreadtypes.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/_stdint.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/select.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/_sigset.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/_timeval.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/timespec.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/_timespec.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/ClientManagerHorseName.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/ClientManagerHorseName.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/ClientManagerHorseName.o: /usr/include/xlocale/_ctype.h
+.obj/ClientManagerHorseName.o: /usr/include/limits.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/limits.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/syslimits.h
+.obj/ClientManagerHorseName.o: /usr/include/dirent.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/dirent.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/time.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/_clock_id.h
+.obj/ClientManagerHorseName.o: /usr/include/time.h
+.obj/ClientManagerHorseName.o: /usr/include/xlocale/_time.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/stat.h
+.obj/ClientManagerHorseName.o: /usr/include/netinet/in.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/_sockaddr_storage.h
+.obj/ClientManagerHorseName.o: /usr/include/netinet6/in6.h
+.obj/ClientManagerHorseName.o: /usr/include/arpa/inet.h /usr/include/netdb.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/socket.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/_iovec.h
+.obj/ClientManagerHorseName.o: /usr/include/machine/_align.h
+.obj/ClientManagerHorseName.o: /usr/include/x86/_align.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/signal.h
+.obj/ClientManagerHorseName.o: /usr/include/machine/signal.h
+.obj/ClientManagerHorseName.o: /usr/include/x86/signal.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/wait.h /usr/include/pthread.h
+.obj/ClientManagerHorseName.o: /usr/include/sched.h /usr/include/sys/sched.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/cpuset.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/_cpuset.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/_bitset.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/bitset.h
+.obj/ClientManagerHorseName.o: /usr/include/semaphore.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/_umtx.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/event.h
+.obj/ClientManagerHorseName.o: /usr/include/sys/queue.h
+.obj/ClientManagerHorseName.o: ../../libthecore/include/typedef.h
+.obj/ClientManagerHorseName.o: ../../libthecore/include/heart.h
+.obj/ClientManagerHorseName.o: ../../libthecore/include/fdwatch.h
+.obj/ClientManagerHorseName.o: ../../libthecore/include/socket.h
+.obj/ClientManagerHorseName.o: ../../libthecore/include/kstbl.h
+.obj/ClientManagerHorseName.o: ../../libthecore/include/hangul.h
+.obj/ClientManagerHorseName.o: ../../libthecore/include/buffer.h
+.obj/ClientManagerHorseName.o: ../../libthecore/include/signal.h
+.obj/ClientManagerHorseName.o: ../../libthecore/include/log.h
+.obj/ClientManagerHorseName.o: ../../libthecore/include/main.h
+.obj/ClientManagerHorseName.o: ../../libthecore/include/utils.h
+.obj/ClientManagerHorseName.o: ../../libthecore/include/crypt.h
+.obj/ClientManagerHorseName.o: ../../libthecore/include/memcpy.h
+.obj/ClientManagerHorseName.o: ../../common/length.h
+.obj/ClientManagerHorseName.o: ../../common/item_length.h
+.obj/ClientManagerHorseName.o: ../../common/tables.h ../../common/length.h
+.obj/ClientManagerHorseName.o: ../../common/singleton.h ../../common/utils.h
+.obj/ClientManagerHorseName.o: ../../common/stl.h ../../common/service.h
+.obj/ClientManagerHorseName.o: ClientManager.h ../../common/building.h
+.obj/ClientManagerHorseName.o: ../../common/auction_table.h
+.obj/ClientManagerHorseName.o: ../../common/tables.h Peer.h PeerBase.h
+.obj/ClientManagerHorseName.o: NetBase.h DBManager.h
+.obj/ClientManagerHorseName.o: /usr/local/include/mysql/mysql.h
+.obj/ClientManagerHorseName.o: /usr/local/include/mysql/mysql_version.h
+.obj/ClientManagerHorseName.o: /usr/local/include/mysql/mysql_com.h
+.obj/ClientManagerHorseName.o: /usr/local/include/mysql/mysql_time.h
+.obj/ClientManagerHorseName.o: /usr/local/include/mysql/my_list.h
+.obj/ClientManagerHorseName.o: /usr/local/include/mysql/typelib.h
+.obj/ClientManagerHorseName.o: /usr/local/include/mysql/my_alloc.h
+.obj/ClientManagerHorseName.o: ../../libsql/AsyncSQL.h
+.obj/ClientManagerHorseName.o: ../../libthecore/include/stdafx.h
+.obj/ClientManagerHorseName.o: ../../libthecore/include/log.h
+.obj/ClientManagerHorseName.o: /usr/local/include/mysql/errmsg.h
+.obj/ClientManagerHorseName.o: /usr/local/include/mysql/mysqld_error.h
+.obj/ClientManagerHorseName.o: ../../libsql/Semaphore.h LoginData.h
+.obj/version.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/version.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/version.o: /usr/include/machine/_types.h /usr/include/x86/_types.h
+.obj/version.o: /usr/include/machine/_limits.h /usr/include/x86/_limits.h
+.obj/version.o: /usr/include/stdlib.h
+.obj/AuctionManager.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/AuctionManager.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/AuctionManager.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/AuctionManager.o: /usr/include/machine/_types.h
+.obj/AuctionManager.o: /usr/include/x86/_types.h
+.obj/AuctionManager.o: /usr/include/machine/_limits.h
+.obj/AuctionManager.o: /usr/include/x86/_limits.h /usr/include/string.h
+.obj/AuctionManager.o: /usr/include/strings.h /usr/include/xlocale/_strings.h
+.obj/AuctionManager.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/AuctionManager.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/AuctionManager.o: /usr/include/errno.h /usr/include/stdlib.h
+.obj/AuctionManager.o: /usr/include/unistd.h /usr/include/sys/types.h
+.obj/AuctionManager.o: /usr/include/machine/endian.h
+.obj/AuctionManager.o: /usr/include/x86/endian.h /usr/include/sys/_endian.h
+.obj/AuctionManager.o: /usr/include/sys/_pthreadtypes.h
+.obj/AuctionManager.o: /usr/include/sys/_stdint.h /usr/include/sys/select.h
+.obj/AuctionManager.o: /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h
+.obj/AuctionManager.o: /usr/include/sys/timespec.h
+.obj/AuctionManager.o: /usr/include/sys/_timespec.h /usr/include/sys/unistd.h
+.obj/AuctionManager.o: /usr/include/fcntl.h /usr/include/assert.h
+.obj/AuctionManager.o: /usr/include/ctype.h /usr/include/_ctype.h
+.obj/AuctionManager.o: /usr/include/runetype.h /usr/include/xlocale/_ctype.h
+.obj/AuctionManager.o: /usr/include/limits.h /usr/include/sys/limits.h
+.obj/AuctionManager.o: /usr/include/sys/syslimits.h /usr/include/dirent.h
+.obj/AuctionManager.o: /usr/include/sys/dirent.h /usr/include/sys/time.h
+.obj/AuctionManager.o: /usr/include/sys/_clock_id.h /usr/include/time.h
+.obj/AuctionManager.o: /usr/include/xlocale/_time.h /usr/include/sys/stat.h
+.obj/AuctionManager.o: /usr/include/netinet/in.h
+.obj/AuctionManager.o: /usr/include/sys/_sockaddr_storage.h
+.obj/AuctionManager.o: /usr/include/netinet6/in6.h /usr/include/arpa/inet.h
+.obj/AuctionManager.o: /usr/include/netdb.h /usr/include/sys/socket.h
+.obj/AuctionManager.o: /usr/include/sys/_iovec.h
+.obj/AuctionManager.o: /usr/include/machine/_align.h
+.obj/AuctionManager.o: /usr/include/x86/_align.h /usr/include/sys/signal.h
+.obj/AuctionManager.o: /usr/include/machine/signal.h
+.obj/AuctionManager.o: /usr/include/x86/signal.h /usr/include/sys/wait.h
+.obj/AuctionManager.o: /usr/include/pthread.h /usr/include/sched.h
+.obj/AuctionManager.o: /usr/include/sys/sched.h /usr/include/sys/cpuset.h
+.obj/AuctionManager.o: /usr/include/sys/_cpuset.h /usr/include/sys/_bitset.h
+.obj/AuctionManager.o: /usr/include/sys/bitset.h /usr/include/semaphore.h
+.obj/AuctionManager.o: /usr/include/sys/_umtx.h /usr/include/sys/event.h
+.obj/AuctionManager.o: /usr/include/sys/queue.h
+.obj/AuctionManager.o: ../../libthecore/include/typedef.h
+.obj/AuctionManager.o: ../../libthecore/include/heart.h
+.obj/AuctionManager.o: ../../libthecore/include/fdwatch.h
+.obj/AuctionManager.o: ../../libthecore/include/socket.h
+.obj/AuctionManager.o: ../../libthecore/include/kstbl.h
+.obj/AuctionManager.o: ../../libthecore/include/hangul.h
+.obj/AuctionManager.o: ../../libthecore/include/buffer.h
+.obj/AuctionManager.o: ../../libthecore/include/signal.h
+.obj/AuctionManager.o: ../../libthecore/include/log.h
+.obj/AuctionManager.o: ../../libthecore/include/main.h
+.obj/AuctionManager.o: ../../libthecore/include/utils.h
+.obj/AuctionManager.o: ../../libthecore/include/crypt.h
+.obj/AuctionManager.o: ../../libthecore/include/memcpy.h
+.obj/AuctionManager.o: ../../common/length.h ../../common/item_length.h
+.obj/AuctionManager.o: ../../common/tables.h ../../common/length.h
+.obj/AuctionManager.o: ../../common/singleton.h ../../common/utils.h
+.obj/AuctionManager.o: ../../common/stl.h ../../common/service.h
+.obj/ProtoReader.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/ProtoReader.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/ProtoReader.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/ProtoReader.o: /usr/include/machine/_types.h /usr/include/x86/_types.h
+.obj/ProtoReader.o: /usr/include/machine/_limits.h /usr/include/x86/_limits.h
+.obj/ProtoReader.o: /usr/include/string.h /usr/include/strings.h
+.obj/ProtoReader.o: /usr/include/xlocale/_strings.h
+.obj/ProtoReader.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/ProtoReader.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/ProtoReader.o: /usr/include/errno.h /usr/include/stdlib.h
+.obj/ProtoReader.o: /usr/include/unistd.h /usr/include/sys/types.h
+.obj/ProtoReader.o: /usr/include/machine/endian.h /usr/include/x86/endian.h
+.obj/ProtoReader.o: /usr/include/sys/_endian.h
+.obj/ProtoReader.o: /usr/include/sys/_pthreadtypes.h
+.obj/ProtoReader.o: /usr/include/sys/_stdint.h /usr/include/sys/select.h
+.obj/ProtoReader.o: /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h
+.obj/ProtoReader.o: /usr/include/sys/timespec.h /usr/include/sys/_timespec.h
+.obj/ProtoReader.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/ProtoReader.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/ProtoReader.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/ProtoReader.o: /usr/include/xlocale/_ctype.h /usr/include/limits.h
+.obj/ProtoReader.o: /usr/include/sys/limits.h /usr/include/sys/syslimits.h
+.obj/ProtoReader.o: /usr/include/dirent.h /usr/include/sys/dirent.h
+.obj/ProtoReader.o: /usr/include/sys/time.h /usr/include/sys/_clock_id.h
+.obj/ProtoReader.o: /usr/include/time.h /usr/include/xlocale/_time.h
+.obj/ProtoReader.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/ProtoReader.o: /usr/include/sys/_sockaddr_storage.h
+.obj/ProtoReader.o: /usr/include/netinet6/in6.h /usr/include/arpa/inet.h
+.obj/ProtoReader.o: /usr/include/netdb.h /usr/include/sys/socket.h
+.obj/ProtoReader.o: /usr/include/sys/_iovec.h /usr/include/machine/_align.h
+.obj/ProtoReader.o: /usr/include/x86/_align.h /usr/include/sys/signal.h
+.obj/ProtoReader.o: /usr/include/machine/signal.h /usr/include/x86/signal.h
+.obj/ProtoReader.o: /usr/include/sys/wait.h /usr/include/pthread.h
+.obj/ProtoReader.o: /usr/include/sched.h /usr/include/sys/sched.h
+.obj/ProtoReader.o: /usr/include/sys/cpuset.h /usr/include/sys/_cpuset.h
+.obj/ProtoReader.o: /usr/include/sys/_bitset.h /usr/include/sys/bitset.h
+.obj/ProtoReader.o: /usr/include/semaphore.h /usr/include/sys/_umtx.h
+.obj/ProtoReader.o: /usr/include/sys/event.h /usr/include/sys/queue.h
+.obj/ProtoReader.o: ../../libthecore/include/typedef.h
+.obj/ProtoReader.o: ../../libthecore/include/heart.h
+.obj/ProtoReader.o: ../../libthecore/include/fdwatch.h
+.obj/ProtoReader.o: ../../libthecore/include/socket.h
+.obj/ProtoReader.o: ../../libthecore/include/kstbl.h
+.obj/ProtoReader.o: ../../libthecore/include/hangul.h
+.obj/ProtoReader.o: ../../libthecore/include/buffer.h
+.obj/ProtoReader.o: ../../libthecore/include/signal.h
+.obj/ProtoReader.o: ../../libthecore/include/log.h
+.obj/ProtoReader.o: ../../libthecore/include/main.h
+.obj/ProtoReader.o: ../../libthecore/include/utils.h
+.obj/ProtoReader.o: ../../libthecore/include/crypt.h
+.obj/ProtoReader.o: ../../libthecore/include/memcpy.h ../../common/length.h
+.obj/ProtoReader.o: ../../common/item_length.h ../../common/tables.h
+.obj/ProtoReader.o: ../../common/length.h ../../common/singleton.h
+.obj/ProtoReader.o: ../../common/utils.h ../../common/stl.h
+.obj/ProtoReader.o: ../../common/service.h /usr/include/math.h ProtoReader.h
+.obj/ProtoReader.o: CsvReader.h
+.obj/CsvReader.o: stdafx.h ../../libthecore/include/stdafx.h
+.obj/CsvReader.o: /usr/include/stdio.h /usr/include/sys/cdefs.h
+.obj/CsvReader.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+.obj/CsvReader.o: /usr/include/machine/_types.h /usr/include/x86/_types.h
+.obj/CsvReader.o: /usr/include/machine/_limits.h /usr/include/x86/_limits.h
+.obj/CsvReader.o: /usr/include/string.h /usr/include/strings.h
+.obj/CsvReader.o: /usr/include/xlocale/_strings.h
+.obj/CsvReader.o: /usr/include/xlocale/_string.h /usr/include/stdarg.h
+.obj/CsvReader.o: /usr/include/x86/stdarg.h /usr/include/sys/_stdarg.h
+.obj/CsvReader.o: /usr/include/errno.h /usr/include/stdlib.h
+.obj/CsvReader.o: /usr/include/unistd.h /usr/include/sys/types.h
+.obj/CsvReader.o: /usr/include/machine/endian.h /usr/include/x86/endian.h
+.obj/CsvReader.o: /usr/include/sys/_endian.h /usr/include/sys/_pthreadtypes.h
+.obj/CsvReader.o: /usr/include/sys/_stdint.h /usr/include/sys/select.h
+.obj/CsvReader.o: /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h
+.obj/CsvReader.o: /usr/include/sys/timespec.h /usr/include/sys/_timespec.h
+.obj/CsvReader.o: /usr/include/sys/unistd.h /usr/include/fcntl.h
+.obj/CsvReader.o: /usr/include/assert.h /usr/include/ctype.h
+.obj/CsvReader.o: /usr/include/_ctype.h /usr/include/runetype.h
+.obj/CsvReader.o: /usr/include/xlocale/_ctype.h /usr/include/limits.h
+.obj/CsvReader.o: /usr/include/sys/limits.h /usr/include/sys/syslimits.h
+.obj/CsvReader.o: /usr/include/dirent.h /usr/include/sys/dirent.h
+.obj/CsvReader.o: /usr/include/sys/time.h /usr/include/sys/_clock_id.h
+.obj/CsvReader.o: /usr/include/time.h /usr/include/xlocale/_time.h
+.obj/CsvReader.o: /usr/include/sys/stat.h /usr/include/netinet/in.h
+.obj/CsvReader.o: /usr/include/sys/_sockaddr_storage.h
+.obj/CsvReader.o: /usr/include/netinet6/in6.h /usr/include/arpa/inet.h
+.obj/CsvReader.o: /usr/include/netdb.h /usr/include/sys/socket.h
+.obj/CsvReader.o: /usr/include/sys/_iovec.h /usr/include/machine/_align.h
+.obj/CsvReader.o: /usr/include/x86/_align.h /usr/include/sys/signal.h
+.obj/CsvReader.o: /usr/include/machine/signal.h /usr/include/x86/signal.h
+.obj/CsvReader.o: /usr/include/sys/wait.h /usr/include/pthread.h
+.obj/CsvReader.o: /usr/include/sched.h /usr/include/sys/sched.h
+.obj/CsvReader.o: /usr/include/sys/cpuset.h /usr/include/sys/_cpuset.h
+.obj/CsvReader.o: /usr/include/sys/_bitset.h /usr/include/sys/bitset.h
+.obj/CsvReader.o: /usr/include/semaphore.h /usr/include/sys/_umtx.h
+.obj/CsvReader.o: /usr/include/sys/event.h /usr/include/sys/queue.h
+.obj/CsvReader.o: ../../libthecore/include/typedef.h
+.obj/CsvReader.o: ../../libthecore/include/heart.h
+.obj/CsvReader.o: ../../libthecore/include/fdwatch.h
+.obj/CsvReader.o: ../../libthecore/include/socket.h
+.obj/CsvReader.o: ../../libthecore/include/kstbl.h
+.obj/CsvReader.o: ../../libthecore/include/hangul.h
+.obj/CsvReader.o: ../../libthecore/include/buffer.h
+.obj/CsvReader.o: ../../libthecore/include/signal.h
+.obj/CsvReader.o: ../../libthecore/include/log.h
+.obj/CsvReader.o: ../../libthecore/include/main.h
+.obj/CsvReader.o: ../../libthecore/include/utils.h
+.obj/CsvReader.o: ../../libthecore/include/crypt.h
+.obj/CsvReader.o: ../../libthecore/include/memcpy.h ../../common/length.h
+.obj/CsvReader.o: ../../common/item_length.h ../../common/tables.h
+.obj/CsvReader.o: ../../common/length.h ../../common/singleton.h
+.obj/CsvReader.o: ../../common/utils.h ../../common/stl.h
+.obj/CsvReader.o: ../../common/service.h CsvReader.h
